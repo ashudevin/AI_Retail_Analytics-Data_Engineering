@@ -1,0 +1,406 @@
+{
+  "last_updated": "2026-06-12T13:30:41.328944+00:00",
+  "summary": {
+    "total_customers": 206209,
+    "avg_orders_per_customer": 16.23,
+    "median_orders_per_customer": 10.0,
+    "avg_products_per_customer": 164.0,
+    "avg_basket_size": 9.98,
+    "single_order_customer_pct": 0.0,
+    "power_user_pct": 24.09
+  },
+  "segmentation": [
+    {
+      "segment": "Loyal (11-20)",
+      "customers": 49098,
+      "percentage": 23.81,
+      "avg_basket_size": 10.08,
+      "avg_products": 148.31
+    },
+    {
+      "segment": "Occasional (2-5)",
+      "customers": 49404,
+      "percentage": 23.96,
+      "avg_basket_size": 9.65,
+      "avg_products": 40.51
+    },
+    {
+      "segment": "Power User (21+)",
+      "customers": 49680,
+      "percentage": 24.09,
+      "avg_basket_size": 10.3,
+      "avg_products": 404.49
+    },
+    {
+      "segment": "Regular (6-10)",
+      "customers": 58027,
+      "percentage": 28.14,
+      "avg_basket_size": 9.91,
+      "avg_products": 76.53
+    }
+  ],
+  "order_frequency": [
+    {
+      "orders": 3,
+      "customers": 8686
+    },
+    {
+      "orders": 4,
+      "customers": 22451
+    },
+    {
+      "orders": 5,
+      "customers": 18267
+    },
+    {
+      "orders": 6,
+      "customers": 15334
+    },
+    {
+      "orders": 7,
+      "customers": 13196
+    },
+    {
+      "orders": 8,
+      "customers": 11075
+    },
+    {
+      "orders": 9,
+      "customers": 9762
+    },
+    {
+      "orders": 10,
+      "customers": 8660
+    },
+    {
+      "orders": 11,
+      "customers": 7399
+    },
+    {
+      "orders": 12,
+      "customers": 6787
+    },
+    {
+      "orders": 13,
+      "customers": 5923
+    },
+    {
+      "orders": 14,
+      "customers": 5464
+    },
+    {
+      "orders": 15,
+      "customers": 4965
+    },
+    {
+      "orders": 16,
+      "customers": 4487
+    },
+    {
+      "orders": 17,
+      "customers": 3983
+    }
+  ],
+  "top_customers": [
+    {
+      "user_id": 177734,
+      "total_orders": 100,
+      "total_products": 959,
+      "avg_basket_size": 9.59
+    },
+    {
+      "user_id": 187609,
+      "total_orders": 100,
+      "total_products": 454,
+      "avg_basket_size": 4.54
+    },
+    {
+      "user_id": 73645,
+      "total_orders": 100,
+      "total_products": 1467,
+      "avg_basket_size": 14.67
+    },
+    {
+      "user_id": 149605,
+      "total_orders": 100,
+      "total_products": 1186,
+      "avg_basket_size": 11.86
+    },
+    {
+      "user_id": 186507,
+      "total_orders": 100,
+      "total_products": 707,
+      "avg_basket_size": 7.07
+    },
+    {
+      "user_id": 155597,
+      "total_orders": 100,
+      "total_products": 1390,
+      "avg_basket_size": 13.9
+    },
+    {
+      "user_id": 114346,
+      "total_orders": 100,
+      "total_products": 496,
+      "avg_basket_size": 4.96
+    },
+    {
+      "user_id": 8779,
+      "total_orders": 100,
+      "total_products": 879,
+      "avg_basket_size": 8.79
+    },
+    {
+      "user_id": 55336,
+      "total_orders": 100,
+      "total_products": 411,
+      "avg_basket_size": 4.11
+    },
+    {
+      "user_id": 75124,
+      "total_orders": 100,
+      "total_products": 1640,
+      "avg_basket_size": 16.4
+    },
+    {
+      "user_id": 81704,
+      "total_orders": 100,
+      "total_products": 950,
+      "avg_basket_size": 9.5
+    },
+    {
+      "user_id": 165813,
+      "total_orders": 100,
+      "total_products": 1399,
+      "avg_basket_size": 13.99
+    },
+    {
+      "user_id": 108911,
+      "total_orders": 100,
+      "total_products": 670,
+      "avg_basket_size": 6.7
+    },
+    {
+      "user_id": 87238,
+      "total_orders": 100,
+      "total_products": 834,
+      "avg_basket_size": 8.34
+    },
+    {
+      "user_id": 78309,
+      "total_orders": 100,
+      "total_products": 904,
+      "avg_basket_size": 9.04
+    },
+    {
+      "user_id": 100593,
+      "total_orders": 100,
+      "total_products": 708,
+      "avg_basket_size": 7.08
+    },
+    {
+      "user_id": 159550,
+      "total_orders": 100,
+      "total_products": 834,
+      "avg_basket_size": 8.34
+    },
+    {
+      "user_id": 53837,
+      "total_orders": 100,
+      "total_products": 1052,
+      "avg_basket_size": 10.52
+    },
+    {
+      "user_id": 54485,
+      "total_orders": 100,
+      "total_products": 1962,
+      "avg_basket_size": 19.62
+    },
+    {
+      "user_id": 190983,
+      "total_orders": 100,
+      "total_products": 865,
+      "avg_basket_size": 8.65
+    },
+    {
+      "user_id": 185641,
+      "total_orders": 100,
+      "total_products": 610,
+      "avg_basket_size": 6.1
+    },
+    {
+      "user_id": 196877,
+      "total_orders": 100,
+      "total_products": 1021,
+      "avg_basket_size": 10.21
+    },
+    {
+      "user_id": 170771,
+      "total_orders": 100,
+      "total_products": 749,
+      "avg_basket_size": 7.49
+    },
+    {
+      "user_id": 133642,
+      "total_orders": 100,
+      "total_products": 1593,
+      "avg_basket_size": 15.93
+    },
+    {
+      "user_id": 158262,
+      "total_orders": 100,
+      "total_products": 394,
+      "avg_basket_size": 3.94
+    },
+    {
+      "user_id": 32092,
+      "total_orders": 100,
+      "total_products": 706,
+      "avg_basket_size": 7.06
+    },
+    {
+      "user_id": 64320,
+      "total_orders": 100,
+      "total_products": 965,
+      "avg_basket_size": 9.65
+    },
+    {
+      "user_id": 58843,
+      "total_orders": 100,
+      "total_products": 1066,
+      "avg_basket_size": 10.66
+    },
+    {
+      "user_id": 83161,
+      "total_orders": 100,
+      "total_products": 249,
+      "avg_basket_size": 2.49
+    },
+    {
+      "user_id": 43352,
+      "total_orders": 100,
+      "total_products": 1020,
+      "avg_basket_size": 10.2
+    },
+    {
+      "user_id": 200297,
+      "total_orders": 100,
+      "total_products": 1004,
+      "avg_basket_size": 10.04
+    },
+    {
+      "user_id": 128987,
+      "total_orders": 100,
+      "total_products": 776,
+      "avg_basket_size": 7.76
+    },
+    {
+      "user_id": 168854,
+      "total_orders": 100,
+      "total_products": 730,
+      "avg_basket_size": 7.3
+    },
+    {
+      "user_id": 103206,
+      "total_orders": 100,
+      "total_products": 710,
+      "avg_basket_size": 7.1
+    },
+    {
+      "user_id": 143099,
+      "total_orders": 100,
+      "total_products": 520,
+      "avg_basket_size": 5.2
+    },
+    {
+      "user_id": 41356,
+      "total_orders": 100,
+      "total_products": 1571,
+      "avg_basket_size": 15.71
+    },
+    {
+      "user_id": 21288,
+      "total_orders": 100,
+      "total_products": 663,
+      "avg_basket_size": 6.63
+    },
+    {
+      "user_id": 48732,
+      "total_orders": 100,
+      "total_products": 1155,
+      "avg_basket_size": 11.55
+    },
+    {
+      "user_id": 46408,
+      "total_orders": 100,
+      "total_products": 767,
+      "avg_basket_size": 7.67
+    },
+    {
+      "user_id": 42307,
+      "total_orders": 100,
+      "total_products": 809,
+      "avg_basket_size": 8.09
+    },
+    {
+      "user_id": 45788,
+      "total_orders": 100,
+      "total_products": 709,
+      "avg_basket_size": 7.09
+    },
+    {
+      "user_id": 189024,
+      "total_orders": 100,
+      "total_products": 419,
+      "avg_basket_size": 4.19
+    },
+    {
+      "user_id": 90555,
+      "total_orders": 100,
+      "total_products": 664,
+      "avg_basket_size": 6.64
+    },
+    {
+      "user_id": 1958,
+      "total_orders": 100,
+      "total_products": 734,
+      "avg_basket_size": 7.34
+    },
+    {
+      "user_id": 188020,
+      "total_orders": 100,
+      "total_products": 889,
+      "avg_basket_size": 8.89
+    },
+    {
+      "user_id": 27430,
+      "total_orders": 100,
+      "total_products": 768,
+      "avg_basket_size": 7.68
+    },
+    {
+      "user_id": 8220,
+      "total_orders": 100,
+      "total_products": 605,
+      "avg_basket_size": 6.05
+    },
+    {
+      "user_id": 68716,
+      "total_orders": 100,
+      "total_products": 565,
+      "avg_basket_size": 5.65
+    },
+    {
+      "user_id": 175097,
+      "total_orders": 100,
+      "total_products": 699,
+      "avg_basket_size": 6.99
+    },
+    {
+      "user_id": 174521,
+      "total_orders": 100,
+      "total_products": 186,
+      "avg_basket_size": 1.86
+    }
+  ]
+}

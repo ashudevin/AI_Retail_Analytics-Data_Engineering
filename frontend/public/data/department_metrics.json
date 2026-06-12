@@ -1,0 +1,111 @@
+{
+  "last_updated": "2026-06-12T13:30:41.328944+00:00",
+  "total_departments": 21,
+  "departments": [
+    {
+      "department": "produce",
+      "total_products_sold": 9888378,
+      "unique_customers": 194331
+    },
+    {
+      "department": "dairy eggs",
+      "total_products_sold": 5631067,
+      "unique_customers": 191861
+    },
+    {
+      "department": "snacks",
+      "total_products_sold": 3006412,
+      "unique_customers": 177070
+    },
+    {
+      "department": "beverages",
+      "total_products_sold": 2804175,
+      "unique_customers": 175482
+    },
+    {
+      "department": "frozen",
+      "total_products_sold": 2336858,
+      "unique_customers": 166124
+    },
+    {
+      "department": "pantry",
+      "total_products_sold": 1956819,
+      "unique_customers": 175882
+    },
+    {
+      "department": "bakery",
+      "total_products_sold": 1225181,
+      "unique_customers": 143772
+    },
+    {
+      "department": "canned goods",
+      "total_products_sold": 1114857,
+      "unique_customers": 136937
+    },
+    {
+      "department": "deli",
+      "total_products_sold": 1095540,
+      "unique_customers": 137143
+    },
+    {
+      "department": "dry goods pasta",
+      "total_products_sold": 905340,
+      "unique_customers": 127985
+    },
+    {
+      "department": "household",
+      "total_products_sold": 774652,
+      "unique_customers": 114823
+    },
+    {
+      "department": "meat seafood",
+      "total_products_sold": 739238,
+      "unique_customers": 116851
+    },
+    {
+      "department": "breakfast",
+      "total_products_sold": 739069,
+      "unique_customers": 117338
+    },
+    {
+      "department": "personal care",
+      "total_products_sold": 468693,
+      "unique_customers": 97155
+    },
+    {
+      "department": "babies",
+      "total_products_sold": 438743,
+      "unique_customers": 34782
+    },
+    {
+      "department": "international",
+      "total_products_sold": 281155,
+      "unique_customers": 79357
+    },
+    {
+      "department": "alcohol",
+      "total_products_sold": 159294,
+      "unique_customers": 16104
+    },
+    {
+      "department": "pets",
+      "total_products_sold": 102221,
+      "unique_customers": 15484
+    },
+    {
+      "department": "missing",
+      "total_products_sold": 77396,
+      "unique_customers": 30950
+    },
+    {
+      "department": "other",
+      "total_products_sold": 38086,
+      "unique_customers": 18750
+    },
+    {
+      "department": "bulk",
+      "total_products_sold": 35932,
+      "unique_customers": 12973
+    }
+  ]
+}

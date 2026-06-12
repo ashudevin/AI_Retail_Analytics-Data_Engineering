@@ -1,0 +1,2506 @@
+{
+  "last_updated": "2026-06-12T13:30:41.328944+00:00",
+  "total_products": 49685,
+  "products": [
+    {
+      "product_id": 6433,
+      "product_name": "Raw Veggie Wrappers",
+      "reorder_rate": 0.942
+    },
+    {
+      "product_id": 2075,
+      "product_name": "Serenity Ultimate Extrema Overnight Pads",
+      "reorder_rate": 0.9333
+    },
+    {
+      "product_id": 43553,
+      "product_name": "Orange Energy Shots",
+      "reorder_rate": 0.9231
+    },
+    {
+      "product_id": 27740,
+      "product_name": "Chocolate Love Bar",
+      "reorder_rate": 0.9216
+    },
+    {
+      "product_id": 14609,
+      "product_name": "Soy Powder Infant Formula",
+      "reorder_rate": 0.9143
+    },
+    {
+      "product_id": 13875,
+      "product_name": "Simply Sleep Nighttime Sleep Aid",
+      "reorder_rate": 0.9111
+    },
+    {
+      "product_id": 39992,
+      "product_name": "Energy Shot, Grape Flavor",
+      "reorder_rate": 0.9091
+    },
+    {
+      "product_id": 5868,
+      "product_name": "Russian River Valley Reserve Pinot Noir",
+      "reorder_rate": 0.9
+    },
+    {
+      "product_id": 36543,
+      "product_name": "Bars Peanut Butter",
+      "reorder_rate": 0.8986
+    },
+    {
+      "product_id": 26093,
+      "product_name": "Soy Crisps Lightly Salted",
+      "reorder_rate": 0.8955
+    },
+    {
+      "product_id": 4212,
+      "product_name": "High Gravity Lager",
+      "reorder_rate": 0.8947
+    },
+    {
+      "product_id": 35604,
+      "product_name": "Maca Buttercups",
+      "reorder_rate": 0.8942
+    },
+    {
+      "product_id": 38438,
+      "product_name": "Almond Orgeat Syrup",
+      "reorder_rate": 0.8929
+    },
+    {
+      "product_id": 38251,
+      "product_name": "Benchbreak Chardonnay",
+      "reorder_rate": 0.8919
+    },
+    {
+      "product_id": 36801,
+      "product_name": "Organic Blueberry B Mega",
+      "reorder_rate": 0.8889
+    },
+    {
+      "product_id": 31418,
+      "product_name": "Sparking Water",
+      "reorder_rate": 0.8871
+    },
+    {
+      "product_id": 38529,
+      "product_name": "Very Rare Blended Scotch Whisky",
+      "reorder_rate": 0.881
+    },
+    {
+      "product_id": 47825,
+      "product_name": "Amazake Almond Shake",
+      "reorder_rate": 0.88
+    },
+    {
+      "product_id": 25766,
+      "product_name": "Steamfresh Garlic Parm Peas",
+      "reorder_rate": 0.875
+    },
+    {
+      "product_id": 2406,
+      "product_name": "Pure Zero",
+      "reorder_rate": 0.871
+    },
+    {
+      "product_id": 14725,
+      "product_name": "Obsidian Stout",
+      "reorder_rate": 0.871
+    },
+    {
+      "product_id": 10236,
+      "product_name": "Fragrance Free Clay with Natural Odor Eliminator Cat Litter",
+      "reorder_rate": 0.8702
+    },
+    {
+      "product_id": 20598,
+      "product_name": "Thousand Island Salad Snax",
+      "reorder_rate": 0.8684
+    },
+    {
+      "product_id": 5457,
+      "product_name": "Classic Carbonated Natural Mineral Water",
+      "reorder_rate": 0.8667
+    },
+    {
+      "product_id": 15657,
+      "product_name": "Peanut Butter Honey Spread",
+      "reorder_rate": 0.8667
+    },
+    {
+      "product_id": 41046,
+      "product_name": "G Series Orange Sports Drink",
+      "reorder_rate": 0.8649
+    },
+    {
+      "product_id": 2142,
+      "product_name": "Gourmet French Roast Ground Coffee",
+      "reorder_rate": 0.8644
+    },
+    {
+      "product_id": 35910,
+      "product_name": "Porter",
+      "reorder_rate": 0.8636
+    },
+    {
+      "product_id": 35496,
+      "product_name": "Real2 Alkalized Water 500 ml",
+      "reorder_rate": 0.8621
+    },
+    {
+      "product_id": 700,
+      "product_name": "Jet Fuel Dark Roast Whole Bean Coffee",
+      "reorder_rate": 0.8621
+    },
+    {
+      "product_id": 9292,
+      "product_name": "Half And Half Ultra Pasteurized",
+      "reorder_rate": 0.8614
+    },
+    {
+      "product_id": 38393,
+      "product_name": "Condensed Soup Manhattan Clam Chowder",
+      "reorder_rate": 0.8611
+    },
+    {
+      "product_id": 16514,
+      "product_name": "No Pulp Orange Juice With Vitamin D And Calcium",
+      "reorder_rate": 0.8611
+    },
+    {
+      "product_id": 10046,
+      "product_name": "Rawhide Chew, Medium Dogs",
+      "reorder_rate": 0.8611
+    },
+    {
+      "product_id": 45504,
+      "product_name": "Whole Organic Omega 3 Milk",
+      "reorder_rate": 0.8598
+    },
+    {
+      "product_id": 17469,
+      "product_name": "Lo-Carb Energy Drink",
+      "reorder_rate": 0.8595
+    },
+    {
+      "product_id": 43394,
+      "product_name": "Organic Lactose Free Whole Milk",
+      "reorder_rate": 0.8592
+    },
+    {
+      "product_id": 9936,
+      "product_name": "Vodka 80 Proof",
+      "reorder_rate": 0.8587
+    },
+    {
+      "product_id": 5514,
+      "product_name": "Organic Homogenized Whole Milk",
+      "reorder_rate": 0.8581
+    },
+    {
+      "product_id": 17762,
+      "product_name": "Light Oaked Chardonnay",
+      "reorder_rate": 0.8571
+    },
+    {
+      "product_id": 26740,
+      "product_name": "Sparklers Tangerine Mango",
+      "reorder_rate": 0.8571
+    },
+    {
+      "product_id": 47814,
+      "product_name": "Puppy Complete Nutrition Chicken & Beef Dinner Wet Dog Food",
+      "reorder_rate": 0.8571
+    },
+    {
+      "product_id": 28950,
+      "product_name": "Spry Fresh Fruit Chewing Gum",
+      "reorder_rate": 0.8571
+    },
+    {
+      "product_id": 3497,
+      "product_name": "Grape Wine, Delicious Red",
+      "reorder_rate": 0.8571
+    },
+    {
+      "product_id": 47231,
+      "product_name": "Ultra-Purified Water",
+      "reorder_rate": 0.857
+    },
+    {
+      "product_id": 3369,
+      "product_name": "Pinot Noir, Vin de Pays d'Oc, 2006",
+      "reorder_rate": 0.8551
+    },
+    {
+      "product_id": 29447,
+      "product_name": "Milk, Organic, Vitamin D",
+      "reorder_rate": 0.8547
+    },
+    {
+      "product_id": 47964,
+      "product_name": "Dog Joy Beef Treats",
+      "reorder_rate": 0.8537
+    },
+    {
+      "product_id": 40170,
+      "product_name": "Sheep Butter",
+      "reorder_rate": 0.8529
+    },
+    {
+      "product_id": 802,
+      "product_name": "Organic Super Berry Juice",
+      "reorder_rate": 0.8519
+    },
+    {
+      "product_id": 34246,
+      "product_name": "Beer Can",
+      "reorder_rate": 0.8519
+    },
+    {
+      "product_id": 10031,
+      "product_name": "Homestyle Orange Juice",
+      "reorder_rate": 0.8517
+    },
+    {
+      "product_id": 38689,
+      "product_name": "Organic Reduced Fat Milk",
+      "reorder_rate": 0.8515
+    },
+    {
+      "product_id": 13983,
+      "product_name": "Cocoa Mocha Almonds",
+      "reorder_rate": 0.8511
+    },
+    {
+      "product_id": 47765,
+      "product_name": "Alimentum Infant Formula",
+      "reorder_rate": 0.8509
+    },
+    {
+      "product_id": 34197,
+      "product_name": "Goat Milk",
+      "reorder_rate": 0.8502
+    },
+    {
+      "product_id": 35513,
+      "product_name": "Buttery Spray",
+      "reorder_rate": 0.85
+    },
+    {
+      "product_id": 34889,
+      "product_name": "Nibby Dark Chocolate",
+      "reorder_rate": 0.85
+    },
+    {
+      "product_id": 47909,
+      "product_name": "Bean Cheese XXL Burrito",
+      "reorder_rate": 0.85
+    },
+    {
+      "product_id": 35490,
+      "product_name": "Sour Patch Kids Redberry Sugar-Free Chewing Gum",
+      "reorder_rate": 0.8485
+    },
+    {
+      "product_id": 7595,
+      "product_name": "Vodka Vanilia",
+      "reorder_rate": 0.8478
+    },
+    {
+      "product_id": 33673,
+      "product_name": "Raw Whole Milk",
+      "reorder_rate": 0.8465
+    },
+    {
+      "product_id": 19675,
+      "product_name": "Organic Raspberry Black Tea",
+      "reorder_rate": 0.8462
+    },
+    {
+      "product_id": 45035,
+      "product_name": "Coffee Flavor Yogurt",
+      "reorder_rate": 0.8462
+    },
+    {
+      "product_id": 43746,
+      "product_name": "Chocolate Brownie Mochi",
+      "reorder_rate": 0.8462
+    },
+    {
+      "product_id": 43332,
+      "product_name": "Kickstart Energizing Fruit Punch",
+      "reorder_rate": 0.8462
+    },
+    {
+      "product_id": 24852,
+      "product_name": "Banana",
+      "reorder_rate": 0.8451
+    },
+    {
+      "product_id": 7352,
+      "product_name": "Baci Dark Chocolate with Whole and Chopped Hazelnuts",
+      "reorder_rate": 0.8444
+    },
+    {
+      "product_id": 16175,
+      "product_name": "Greek Tirmisu",
+      "reorder_rate": 0.8438
+    },
+    {
+      "product_id": 48095,
+      "product_name": "Purified Water, 9.5pH+",
+      "reorder_rate": 0.8433
+    },
+    {
+      "product_id": 37292,
+      "product_name": "Organic Dark Chocolate Bar with Sea Salt and Turbinado Cane Sugar",
+      "reorder_rate": 0.8431
+    },
+    {
+      "product_id": 10697,
+      "product_name": "Beneful Chopped Blends Chicken Dog Food",
+      "reorder_rate": 0.8429
+    },
+    {
+      "product_id": 43400,
+      "product_name": "Raspberry Vinaigrette Salad Snax",
+      "reorder_rate": 0.8427
+    },
+    {
+      "product_id": 44902,
+      "product_name": "Pineapple Coconut Sparkling Water",
+      "reorder_rate": 0.8421
+    },
+    {
+      "product_id": 17996,
+      "product_name": "Italian Crushed Tomatoes with Onion and Garlic",
+      "reorder_rate": 0.8421
+    },
+    {
+      "product_id": 15201,
+      "product_name": "Zero Peach Nutrient Enhanced Water Beverage",
+      "reorder_rate": 0.8421
+    },
+    {
+      "product_id": 39180,
+      "product_name": "Organic Lowfat 1% Milk",
+      "reorder_rate": 0.8412
+    },
+    {
+      "product_id": 31720,
+      "product_name": "Organic Whole Milk",
+      "reorder_rate": 0.8408
+    },
+    {
+      "product_id": 43579,
+      "product_name": "Body Wash, Restoring, Marula Oil Infused",
+      "reorder_rate": 0.84
+    },
+    {
+      "product_id": 9479,
+      "product_name": "Ham & Swiss Sandwich",
+      "reorder_rate": 0.84
+    },
+    {
+      "product_id": 39746,
+      "product_name": "A.R. Milk Based Infant Formula for Spit\u2011Up Powder",
+      "reorder_rate": 0.8395
+    },
+    {
+      "product_id": 37659,
+      "product_name": "Clean & Fresh 125 Loads Laundry Detergent",
+      "reorder_rate": 0.839
+    },
+    {
+      "product_id": 2748,
+      "product_name": "Organic Reduced Fat Omega-3 Milk",
+      "reorder_rate": 0.8388
+    },
+    {
+      "product_id": 19710,
+      "product_name": "Whole Bean Highlander Grog",
+      "reorder_rate": 0.8387
+    },
+    {
+      "product_id": 29644,
+      "product_name": "No Calorie Sucralose Sweetener",
+      "reorder_rate": 0.8387
+    },
+    {
+      "product_id": 24521,
+      "product_name": "Lowfat Goat Milk",
+      "reorder_rate": 0.8381
+    },
+    {
+      "product_id": 26198,
+      "product_name": "Chicken & Noodles Compleats",
+      "reorder_rate": 0.8378
+    },
+    {
+      "product_id": 20940,
+      "product_name": "Organic Low Fat Milk",
+      "reorder_rate": 0.8376
+    },
+    {
+      "product_id": 48893,
+      "product_name": "Vanilla Yogurt Nutrition Bar",
+      "reorder_rate": 0.8375
+    },
+    {
+      "product_id": 12995,
+      "product_name": "Cacao Hemp Walnut Bar",
+      "reorder_rate": 0.8374
+    },
+    {
+      "product_id": 13166,
+      "product_name": "Organic Milk Reduced Fat, 2% Milkfat",
+      "reorder_rate": 0.8373
+    },
+    {
+      "product_id": 48772,
+      "product_name": "Dark Chocolate, Intense Mint",
+      "reorder_rate": 0.8372
+    },
+    {
+      "product_id": 17101,
+      "product_name": "Rehab Rojo Energy Tea",
+      "reorder_rate": 0.8372
+    },
+    {
+      "product_id": 33712,
+      "product_name": "Organic Wheatgrass Sprouts",
+      "reorder_rate": 0.8372
+    },
+    {
+      "product_id": 35649,
+      "product_name": "Alkalized Water",
+      "reorder_rate": 0.8361
+    },
+    {
+      "product_id": 8627,
+      "product_name": "Thyme Hummos",
+      "reorder_rate": 0.8361
+    },
+    {
+      "product_id": 37657,
+      "product_name": "Center Pull 1 Ply Bath TIssue",
+      "reorder_rate": 0.8352
+    },
+    {
+      "product_id": 13128,
+      "product_name": "Purified Alkalkine Water with Minerals pH10",
+      "reorder_rate": 0.8344
+    },
+    {
+      "product_id": 13176,
+      "product_name": "Bag of Organic Bananas",
+      "reorder_rate": 0.8338
+    },
+    {
+      "product_id": 37118,
+      "product_name": "Peach, Natural Black Tea",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 8496,
+      "product_name": "Oat Bran Mini Pretzels",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 32507,
+      "product_name": "Vegetable Combo Sp",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 45328,
+      "product_name": "Flavored Vodka, Peach",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 4458,
+      "product_name": "Hot & Fit Mayan Blend Cereal",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 9099,
+      "product_name": "Cookies 'n Cream Energy Bar",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 28335,
+      "product_name": "Rehab Energy Iced Tea Orangeade",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 47554,
+      "product_name": "Mocha Latte & Dark Chocolate Swirl, Silky Smooth",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 24027,
+      "product_name": "Strawman Farmhouse Hard Cider",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 7793,
+      "product_name": "Parma Rosa Sauce Mix",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 31918,
+      "product_name": "Hawaiian Volcanic Water",
+      "reorder_rate": 0.8333
+    },
+    {
+      "product_id": 36011,
+      "product_name": "Organic Fat Free Milk",
+      "reorder_rate": 0.8329
+    },
+    {
+      "product_id": 48763,
+      "product_name": "Lemon Ice Cubes",
+      "reorder_rate": 0.8315
+    },
+    {
+      "product_id": 40183,
+      "product_name": "Organic Grade A Raw Whole Milk",
+      "reorder_rate": 0.8315
+    },
+    {
+      "product_id": 27845,
+      "product_name": "Organic Whole Milk",
+      "reorder_rate": 0.831
+    },
+    {
+      "product_id": 7072,
+      "product_name": "Green with Honey Iced Tea",
+      "reorder_rate": 0.8302
+    },
+    {
+      "product_id": 3116,
+      "product_name": "Organic Blue Tortilla Chips",
+      "reorder_rate": 0.8293
+    },
+    {
+      "product_id": 10020,
+      "product_name": "IPA Hop Hunter",
+      "reorder_rate": 0.8293
+    },
+    {
+      "product_id": 43158,
+      "product_name": "Potato Chips, Lightly Salted",
+      "reorder_rate": 0.829
+    },
+    {
+      "product_id": 117,
+      "product_name": "Petit Suisse Fruit",
+      "reorder_rate": 0.8288
+    },
+    {
+      "product_id": 44295,
+      "product_name": "Classic Seltzer",
+      "reorder_rate": 0.8286
+    },
+    {
+      "product_id": 6209,
+      "product_name": "TAB",
+      "reorder_rate": 0.8282
+    },
+    {
+      "product_id": 1157,
+      "product_name": "Wheat Sandwich Bread",
+      "reorder_rate": 0.8281
+    },
+    {
+      "product_id": 38928,
+      "product_name": "0% Greek Strained Yogurt",
+      "reorder_rate": 0.8268
+    },
+    {
+      "product_id": 27511,
+      "product_name": "Milk, Organic, Fat Free",
+      "reorder_rate": 0.8266
+    },
+    {
+      "product_id": 38002,
+      "product_name": "with Seasoned Roasted Potatoes Scrambled Eggs & Sausage",
+      "reorder_rate": 0.8265
+    },
+    {
+      "product_id": 33617,
+      "product_name": "Chocolate Chip Cookie Dough Energy Bar",
+      "reorder_rate": 0.8261
+    },
+    {
+      "product_id": 26167,
+      "product_name": "UltraGel Personal Lubricant",
+      "reorder_rate": 0.8261
+    },
+    {
+      "product_id": 35470,
+      "product_name": "Water Mineral",
+      "reorder_rate": 0.826
+    },
+    {
+      "product_id": 29118,
+      "product_name": "French Vanilla Soy Creamer",
+      "reorder_rate": 0.8253
+    },
+    {
+      "product_id": 13806,
+      "product_name": "1% Milkfat Low Fat Vitamin A & D Milk",
+      "reorder_rate": 0.8251
+    },
+    {
+      "product_id": 2090,
+      "product_name": "Milk, Goat",
+      "reorder_rate": 0.8251
+    },
+    {
+      "product_id": 1402,
+      "product_name": "Plain Soymilk Creamer",
+      "reorder_rate": 0.8246
+    },
+    {
+      "product_id": 1936,
+      "product_name": "Diet Tangerine Lime Premium Soda, Zero Calories, Sugar Free, No Caffeine",
+      "reorder_rate": 0.8239
+    },
+    {
+      "product_id": 3867,
+      "product_name": "Antiperspirant Deodorant, Fresh",
+      "reorder_rate": 0.8235
+    },
+    {
+      "product_id": 257,
+      "product_name": "Key Lime Soda",
+      "reorder_rate": 0.8235
+    },
+    {
+      "product_id": 14442,
+      "product_name": "Toasted Southern Pecan",
+      "reorder_rate": 0.8235
+    },
+    {
+      "product_id": 38699,
+      "product_name": "Single Origin Peru Bar",
+      "reorder_rate": 0.8235
+    },
+    {
+      "product_id": 7869,
+      "product_name": "Old Fashioned Red Liquorice",
+      "reorder_rate": 0.8235
+    },
+    {
+      "product_id": 25593,
+      "product_name": "2% Milkfat Greek Yogurt with Mango On The Bottom",
+      "reorder_rate": 0.8235
+    },
+    {
+      "product_id": 17377,
+      "product_name": "Apple Strawberry Banana Squeezable Fruit",
+      "reorder_rate": 0.8222
+    },
+    {
+      "product_id": 14777,
+      "product_name": "Nasal Decongestant Inhaler with Medicated Vapors",
+      "reorder_rate": 0.8222
+    },
+    {
+      "product_id": 41330,
+      "product_name": "Alkaline Water",
+      "reorder_rate": 0.822
+    },
+    {
+      "product_id": 49609,
+      "product_name": "Very Berry Flavor Sparking Mineral Water",
+      "reorder_rate": 0.8213
+    },
+    {
+      "product_id": 20082,
+      "product_name": "Organic Whole Milk with DHA Omega-3",
+      "reorder_rate": 0.8212
+    },
+    {
+      "product_id": 14371,
+      "product_name": "Organic Nonfat Milk",
+      "reorder_rate": 0.8212
+    },
+    {
+      "product_id": 15783,
+      "product_name": "Smoked 5 Spice Tofu",
+      "reorder_rate": 0.821
+    },
+    {
+      "product_id": 2677,
+      "product_name": "Yerba Mate Sparkling Classic Gold",
+      "reorder_rate": 0.8207
+    },
+    {
+      "product_id": 10231,
+      "product_name": "Bamba Peanut Snack With Hazelnut Filling",
+      "reorder_rate": 0.82
+    },
+    {
+      "product_id": 32978,
+      "product_name": "Lemon Lime Seltzer",
+      "reorder_rate": 0.8187
+    },
+    {
+      "product_id": 15041,
+      "product_name": "Superfood Cranberry, Almond & Lucuma Seedbar",
+      "reorder_rate": 0.8187
+    },
+    {
+      "product_id": 31651,
+      "product_name": "Extra Fancy Unsalted Mixed Nuts",
+      "reorder_rate": 0.8184
+    },
+    {
+      "product_id": 46216,
+      "product_name": "Water Fruits Fruit Punch Frenzy Naturally Flavored Water Beverage",
+      "reorder_rate": 0.8182
+    },
+    {
+      "product_id": 27031,
+      "product_name": "Superfruit Mix Jelly Beans",
+      "reorder_rate": 0.8182
+    },
+    {
+      "product_id": 5793,
+      "product_name": "Rehab Tea + Lemonade + Energy",
+      "reorder_rate": 0.8182
+    },
+    {
+      "product_id": 47204,
+      "product_name": "Coffee Lowfat Yogurt",
+      "reorder_rate": 0.8182
+    },
+    {
+      "product_id": 13142,
+      "product_name": "Cheese Flavor Sprinkles",
+      "reorder_rate": 0.8182
+    },
+    {
+      "product_id": 44741,
+      "product_name": "Honey Whole Wheat",
+      "reorder_rate": 0.8175
+    },
+    {
+      "product_id": 5108,
+      "product_name": "Whole Milk Bulgarian Yogurt",
+      "reorder_rate": 0.8169
+    },
+    {
+      "product_id": 6583,
+      "product_name": "Oraganic Lemon Elation Yerba Mate Drink",
+      "reorder_rate": 0.8167
+    },
+    {
+      "product_id": 3771,
+      "product_name": "Organic Low Sodium Super Veggie Juice",
+      "reorder_rate": 0.8167
+    },
+    {
+      "product_id": 33225,
+      "product_name": "Dakota Style 12 Grain Bread",
+      "reorder_rate": 0.8162
+    },
+    {
+      "product_id": 44920,
+      "product_name": "Grilled Turkey & Cheddar Cheese Feast in Gravy Cat Food",
+      "reorder_rate": 0.816
+    },
+    {
+      "product_id": 32403,
+      "product_name": "Fat Free Skim Milk",
+      "reorder_rate": 0.8156
+    },
+    {
+      "product_id": 12384,
+      "product_name": "Organic Lactose Free 1% Lowfat Milk",
+      "reorder_rate": 0.8153
+    },
+    {
+      "product_id": 18736,
+      "product_name": "Sorta Sweet Straight Up Iced Tea",
+      "reorder_rate": 0.8148
+    },
+    {
+      "product_id": 24024,
+      "product_name": "1% Lowfat Milk",
+      "reorder_rate": 0.8147
+    },
+    {
+      "product_id": 5479,
+      "product_name": "Italian Sparkling Mineral Water",
+      "reorder_rate": 0.8145
+    },
+    {
+      "product_id": 27354,
+      "product_name": "Authentic Asia Shrimp Wonton Soup With Noodles",
+      "reorder_rate": 0.814
+    },
+    {
+      "product_id": 1455,
+      "product_name": "Firm Pesto Tofu",
+      "reorder_rate": 0.8137
+    },
+    {
+      "product_id": 14702,
+      "product_name": "Maple Honey Ham",
+      "reorder_rate": 0.8135
+    },
+    {
+      "product_id": 14947,
+      "product_name": "Pure Sparkling Water",
+      "reorder_rate": 0.8134
+    },
+    {
+      "product_id": 46149,
+      "product_name": "Zero Calorie Cola",
+      "reorder_rate": 0.8128
+    },
+    {
+      "product_id": 6347,
+      "product_name": "Unsweetened Almond Milk",
+      "reorder_rate": 0.8128
+    },
+    {
+      "product_id": 19660,
+      "product_name": "Spring Water",
+      "reorder_rate": 0.8127
+    },
+    {
+      "product_id": 22555,
+      "product_name": "Low Sodium Borscht",
+      "reorder_rate": 0.8125
+    },
+    {
+      "product_id": 29201,
+      "product_name": "Pretzels Sesame Baked Not Fried",
+      "reorder_rate": 0.8125
+    },
+    {
+      "product_id": 21482,
+      "product_name": "Jewel Signature Provolone",
+      "reorder_rate": 0.8125
+    },
+    {
+      "product_id": 44903,
+      "product_name": "Celluvisc Lubricant Eye Gel",
+      "reorder_rate": 0.8125
+    },
+    {
+      "product_id": 14067,
+      "product_name": "Puffed Corn Cereal",
+      "reorder_rate": 0.8122
+    },
+    {
+      "product_id": 47045,
+      "product_name": "Key Lime Sugar Free Sparkling Water",
+      "reorder_rate": 0.8116
+    },
+    {
+      "product_id": 20639,
+      "product_name": "Strawberry Lowfat Yogurt with M&M's",
+      "reorder_rate": 0.8116
+    },
+    {
+      "product_id": 40852,
+      "product_name": "Lactose Free Fat Free Milk",
+      "reorder_rate": 0.8115
+    },
+    {
+      "product_id": 14084,
+      "product_name": "Organic Unsweetened Vanilla Almond Milk",
+      "reorder_rate": 0.8113
+    },
+    {
+      "product_id": 11279,
+      "product_name": "9 Grain & Seed Bread",
+      "reorder_rate": 0.8113
+    },
+    {
+      "product_id": 38503,
+      "product_name": "Green Tea and Ginseng & Honey",
+      "reorder_rate": 0.8113
+    },
+    {
+      "product_id": 1463,
+      "product_name": "Organic Milk",
+      "reorder_rate": 0.8112
+    },
+    {
+      "product_id": 30144,
+      "product_name": "Crystals Cat Litter",
+      "reorder_rate": 0.8109
+    },
+    {
+      "product_id": 13560,
+      "product_name": "A+ Cinnamon Sweet Potato Pancakes",
+      "reorder_rate": 0.8107
+    },
+    {
+      "product_id": 25000,
+      "product_name": "Whole Wheat Multigrain Pop Cakes",
+      "reorder_rate": 0.8107
+    },
+    {
+      "product_id": 47896,
+      "product_name": "Rich & Creamy Lowfat Half And Half",
+      "reorder_rate": 0.8103
+    },
+    {
+      "product_id": 38873,
+      "product_name": "Calorie Free Seltzer Water",
+      "reorder_rate": 0.81
+    },
+    {
+      "product_id": 6948,
+      "product_name": "Organic Original Almond Milk",
+      "reorder_rate": 0.8099
+    },
+    {
+      "product_id": 35417,
+      "product_name": "Reduced Fat Milk 2%",
+      "reorder_rate": 0.8096
+    },
+    {
+      "product_id": 22610,
+      "product_name": "Reduced Fat 2% Lactose-Free Milk",
+      "reorder_rate": 0.8096
+    },
+    {
+      "product_id": 38011,
+      "product_name": "Sparkling Wild Berry Calorie Reducing Drink",
+      "reorder_rate": 0.8095
+    },
+    {
+      "product_id": 33064,
+      "product_name": "Lemon Cookies",
+      "reorder_rate": 0.8095
+    },
+    {
+      "product_id": 37870,
+      "product_name": "14oz Passion Fruit",
+      "reorder_rate": 0.8095
+    },
+    {
+      "product_id": 18958,
+      "product_name": "Vanilla with Reese's Pieces Lowfat Yogurt",
+      "reorder_rate": 0.8095
+    },
+    {
+      "product_id": 492,
+      "product_name": "Couscous, Israeli, Garlic Jalapeno",
+      "reorder_rate": 0.8095
+    },
+    {
+      "product_id": 31570,
+      "product_name": "Quark Pineapple Yogurt",
+      "reorder_rate": 0.8095
+    },
+    {
+      "product_id": 23383,
+      "product_name": "Super Natural Organic Whole Milk",
+      "reorder_rate": 0.8092
+    },
+    {
+      "product_id": 48851,
+      "product_name": "Reduced Fat Mozzarella & Cheddar Polly-O Cheese Twists",
+      "reorder_rate": 0.8089
+    },
+    {
+      "product_id": 18450,
+      "product_name": "Trumoo Choc Milk Hg",
+      "reorder_rate": 0.8088
+    },
+    {
+      "product_id": 43842,
+      "product_name": "Baby Naturals Gel For Teething Pain Relief",
+      "reorder_rate": 0.8077
+    },
+    {
+      "product_id": 21547,
+      "product_name": "Extra Virgin Olive Oil Spray",
+      "reorder_rate": 0.8077
+    },
+    {
+      "product_id": 17656,
+      "product_name": "Pink Lemonade Liquid Drink Enhancer",
+      "reorder_rate": 0.8077
+    },
+    {
+      "product_id": 25792,
+      "product_name": "The Original Vodka Sauce",
+      "reorder_rate": 0.8077
+    },
+    {
+      "product_id": 7985,
+      "product_name": "Gluten-Free Reduced Sodium Popcorn",
+      "reorder_rate": 0.8077
+    },
+    {
+      "product_id": 47868,
+      "product_name": "100% Spring Water",
+      "reorder_rate": 0.8075
+    },
+    {
+      "product_id": 5116,
+      "product_name": "Tropical Natural Stress Relief Drink",
+      "reorder_rate": 0.8073
+    },
+    {
+      "product_id": 42152,
+      "product_name": "Toddler Drink Go & Grow Powder",
+      "reorder_rate": 0.807
+    },
+    {
+      "product_id": 33572,
+      "product_name": "Lactose Free 2% Reduced Fat Milk",
+      "reorder_rate": 0.8069
+    },
+    {
+      "product_id": 5785,
+      "product_name": "Organic Reduced Fat 2% Milk",
+      "reorder_rate": 0.8065
+    },
+    {
+      "product_id": 42561,
+      "product_name": "Reduced Fat 1% Milk",
+      "reorder_rate": 0.8058
+    },
+    {
+      "product_id": 48041,
+      "product_name": "DanActive Vanilla Probiotic Dairy Drink",
+      "reorder_rate": 0.8057
+    },
+    {
+      "product_id": 11961,
+      "product_name": "Organic Nuts & Vanilla Beverage",
+      "reorder_rate": 0.8056
+    },
+    {
+      "product_id": 10070,
+      "product_name": "Organic 1% Low Fat Milk",
+      "reorder_rate": 0.8054
+    },
+    {
+      "product_id": 49031,
+      "product_name": "Ale, Hop Stoopid",
+      "reorder_rate": 0.8054
+    },
+    {
+      "product_id": 21834,
+      "product_name": "Zinfandel, California, 2010",
+      "reorder_rate": 0.8052
+    },
+    {
+      "product_id": 3510,
+      "product_name": "Swedish Oatmeal Pancakes",
+      "reorder_rate": 0.8049
+    },
+    {
+      "product_id": 27726,
+      "product_name": "Lemon Seltzer Water",
+      "reorder_rate": 0.8048
+    },
+    {
+      "product_id": 32591,
+      "product_name": "Organic Chicken Cat Food",
+      "reorder_rate": 0.8046
+    },
+    {
+      "product_id": 36717,
+      "product_name": "Double Fiber Bread",
+      "reorder_rate": 0.8044
+    },
+    {
+      "product_id": 12009,
+      "product_name": "Umbrian Lentil Soup",
+      "reorder_rate": 0.8041
+    },
+    {
+      "product_id": 19875,
+      "product_name": "Organic Yogurt Original Plain",
+      "reorder_rate": 0.8039
+    },
+    {
+      "product_id": 4962,
+      "product_name": "Yotoddler Organic Pear Spinach Mango Yogurt",
+      "reorder_rate": 0.8038
+    },
+    {
+      "product_id": 2364,
+      "product_name": "Elegant Medleys Shredded Tuna Fare",
+      "reorder_rate": 0.8036
+    },
+    {
+      "product_id": 3896,
+      "product_name": "Organic Honey Sweet Whole Wheat Bread",
+      "reorder_rate": 0.8033
+    },
+    {
+      "product_id": 33645,
+      "product_name": "Tasteeos Cereal",
+      "reorder_rate": 0.803
+    },
+    {
+      "product_id": 12798,
+      "product_name": "Organic Nine Grain",
+      "reorder_rate": 0.8029
+    },
+    {
+      "product_id": 19449,
+      "product_name": "Fat Free Vitamin A & D Milk",
+      "reorder_rate": 0.8027
+    },
+    {
+      "product_id": 1673,
+      "product_name": "Free Ride Hibiscus Brew Craft Brewed Kombucha",
+      "reorder_rate": 0.8026
+    },
+    {
+      "product_id": 29281,
+      "product_name": "Natural Atrisan Granola Original",
+      "reorder_rate": 0.8022
+    },
+    {
+      "product_id": 16681,
+      "product_name": "Cherry Coke Zero",
+      "reorder_rate": 0.802
+    },
+    {
+      "product_id": 10831,
+      "product_name": "Yobaby Organic Plain Yogurt",
+      "reorder_rate": 0.8014
+    },
+    {
+      "product_id": 19354,
+      "product_name": "Yo Baby Organic Vanilla Yogurt",
+      "reorder_rate": 0.8011
+    },
+    {
+      "product_id": 39589,
+      "product_name": "Grassmilk Organic Fat Free Milk",
+      "reorder_rate": 0.8011
+    },
+    {
+      "product_id": 21646,
+      "product_name": "Sliced Toasted Sunflower Honey Loaf",
+      "reorder_rate": 0.8005
+    },
+    {
+      "product_id": 29367,
+      "product_name": "Yogurt, Coconut Non-Dairy, Low Fat, Vanilla",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 48670,
+      "product_name": "Diet Orange & Cream Soda",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 42376,
+      "product_name": "Gold Blend Tea",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 37184,
+      "product_name": "Coldstone Sweet Cream",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 21281,
+      "product_name": "Caf\u00e9 Steamers Grilled Chicken Marinara",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 30876,
+      "product_name": "Diet Chocolate Fudge - 6 CT",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 44249,
+      "product_name": "Hazelnut Creme Flavored Medium Roast Ground Coffee",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 4851,
+      "product_name": "Chicken Florentine Farfelle",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 34403,
+      "product_name": "Mix Berry Fruitfulls",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 3839,
+      "product_name": "Black Cherry Cider",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 32161,
+      "product_name": "Chocolate Chip Chewy Snack Bar",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 28551,
+      "product_name": "Organic Carrot Leafy Greens",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 8853,
+      "product_name": "Light Brown Rice Loaf",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 30202,
+      "product_name": "Sugar Free Low Calorie Maple Flavor Syrup",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 23891,
+      "product_name": "Graduates Grabbers Fruit & Yogurt, Tropical",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 22096,
+      "product_name": "California French Dressing",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 22965,
+      "product_name": "0 Calorie Strawberry Dragonfruit Water Beverage",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 43738,
+      "product_name": "Organic Butternut Squash Strawberry & Acai Squeezable Veggie & Fruit Snack",
+      "reorder_rate": 0.8
+    },
+    {
+      "product_id": 6286,
+      "product_name": "Half and Half",
+      "reorder_rate": 0.7997
+    },
+    {
+      "product_id": 35907,
+      "product_name": "California Black Bread",
+      "reorder_rate": 0.7991
+    },
+    {
+      "product_id": 21038,
+      "product_name": "Organic Spelt Tortillas",
+      "reorder_rate": 0.7991
+    },
+    {
+      "product_id": 42309,
+      "product_name": "Nonfat Vanilla Bio Kefir",
+      "reorder_rate": 0.799
+    },
+    {
+      "product_id": 329,
+      "product_name": "Organic Whole Grassmilk Milk",
+      "reorder_rate": 0.7989
+    },
+    {
+      "product_id": 29373,
+      "product_name": "Nonfat Probiotic Drinks",
+      "reorder_rate": 0.7987
+    },
+    {
+      "product_id": 5695,
+      "product_name": "Real Bread",
+      "reorder_rate": 0.7986
+    },
+    {
+      "product_id": 10473,
+      "product_name": "Half And Half Cream",
+      "reorder_rate": 0.7984
+    },
+    {
+      "product_id": 7733,
+      "product_name": "Chardonnay California",
+      "reorder_rate": 0.7983
+    },
+    {
+      "product_id": 1098,
+      "product_name": "Organic Blackberry Blend Juice",
+      "reorder_rate": 0.7982
+    },
+    {
+      "product_id": 40363,
+      "product_name": "Coconut Water, Real",
+      "reorder_rate": 0.7978
+    },
+    {
+      "product_id": 47209,
+      "product_name": "Organic Hass Avocado",
+      "reorder_rate": 0.7976
+    },
+    {
+      "product_id": 2962,
+      "product_name": "Milk, Reduced Fat, 2% Milkfat",
+      "reorder_rate": 0.7976
+    },
+    {
+      "product_id": 30690,
+      "product_name": "Squeezed Lemonade Fruit Juice",
+      "reorder_rate": 0.7975
+    },
+    {
+      "product_id": 5492,
+      "product_name": "Deluxe Honey Roasted Whole Cashews",
+      "reorder_rate": 0.7973
+    },
+    {
+      "product_id": 32566,
+      "product_name": "Dha Omega 3 Vitamin D Milk",
+      "reorder_rate": 0.7971
+    },
+    {
+      "product_id": 19239,
+      "product_name": "Organic Passion Terere Yerba Mate",
+      "reorder_rate": 0.7971
+    },
+    {
+      "product_id": 34922,
+      "product_name": "Ancient Grains Apricot Blended Low-Fat Greek Yogurt",
+      "reorder_rate": 0.7969
+    },
+    {
+      "product_id": 33247,
+      "product_name": "Tangerine Sparkling Probiotic Beverage",
+      "reorder_rate": 0.7969
+    },
+    {
+      "product_id": 8558,
+      "product_name": "Cottage Cheese, Natural Small Curd, 4% Milkfat Min",
+      "reorder_rate": 0.7964
+    },
+    {
+      "product_id": 35412,
+      "product_name": "Select Tender Chicken with Vegetables & Brown Rice Dog Food Recipe",
+      "reorder_rate": 0.7963
+    },
+    {
+      "product_id": 12763,
+      "product_name": "Peach Pure Body Immune Support Blend",
+      "reorder_rate": 0.796
+    },
+    {
+      "product_id": 36988,
+      "product_name": "Low Salt Ham",
+      "reorder_rate": 0.796
+    },
+    {
+      "product_id": 2628,
+      "product_name": "Traditional Original Amber Lager",
+      "reorder_rate": 0.7959
+    },
+    {
+      "product_id": 37724,
+      "product_name": "Organic Edensoy Extra Original Soy Milk",
+      "reorder_rate": 0.7959
+    },
+    {
+      "product_id": 19731,
+      "product_name": "Organic Orange Juice With Calcium & Vitamin D",
+      "reorder_rate": 0.7957
+    },
+    {
+      "product_id": 21402,
+      "product_name": "Mango Syrup",
+      "reorder_rate": 0.7955
+    },
+    {
+      "product_id": 658,
+      "product_name": "Keebler Sandies Cashew 12.8 Oz",
+      "reorder_rate": 0.7955
+    },
+    {
+      "product_id": 38544,
+      "product_name": "Organic Whole Milk Strawberry Beet Berry Yogurt Pouch",
+      "reorder_rate": 0.795
+    },
+    {
+      "product_id": 1511,
+      "product_name": "2% Reduced Fat DHA Omega-3 Reduced Fat Milk",
+      "reorder_rate": 0.7949
+    },
+    {
+      "product_id": 32233,
+      "product_name": "Low Sodium Small Bow Ties Egg Noodles",
+      "reorder_rate": 0.7949
+    },
+    {
+      "product_id": 2882,
+      "product_name": "Gentle Care Tissue Rolls",
+      "reorder_rate": 0.7949
+    },
+    {
+      "product_id": 4451,
+      "product_name": "Organic Skim Milk with DHA Omega-3",
+      "reorder_rate": 0.7945
+    },
+    {
+      "product_id": 47512,
+      "product_name": "Lite Energy Drink",
+      "reorder_rate": 0.7942
+    },
+    {
+      "product_id": 23143,
+      "product_name": "Special Cocoa Spread",
+      "reorder_rate": 0.7941
+    },
+    {
+      "product_id": 5766,
+      "product_name": "Honey & Oat Blenders",
+      "reorder_rate": 0.7941
+    },
+    {
+      "product_id": 23315,
+      "product_name": "Organic Cold Brew Coffee",
+      "reorder_rate": 0.794
+    },
+    {
+      "product_id": 29478,
+      "product_name": "Fudge Graham Nutrition Bar",
+      "reorder_rate": 0.7939
+    },
+    {
+      "product_id": 18438,
+      "product_name": "Rice Bowl Chicken Fajita Frozen Dinner",
+      "reorder_rate": 0.7938
+    },
+    {
+      "product_id": 4793,
+      "product_name": "Wild Berry Smoothie",
+      "reorder_rate": 0.7937
+    },
+    {
+      "product_id": 44799,
+      "product_name": "Fresh CA Grown Eggs",
+      "reorder_rate": 0.7933
+    },
+    {
+      "product_id": 46208,
+      "product_name": "Oranic Kamut Vegetable Pasta Spirals",
+      "reorder_rate": 0.7931
+    },
+    {
+      "product_id": 26046,
+      "product_name": "Marinated Mushrooms",
+      "reorder_rate": 0.7931
+    },
+    {
+      "product_id": 16369,
+      "product_name": "Sorbetto Mango",
+      "reorder_rate": 0.7931
+    },
+    {
+      "product_id": 3624,
+      "product_name": "OTC\u2122 Heartburn Capsules",
+      "reorder_rate": 0.7931
+    },
+    {
+      "product_id": 30440,
+      "product_name": "Chocolate Crepes",
+      "reorder_rate": 0.7928
+    },
+    {
+      "product_id": 27383,
+      "product_name": "Select Tender Chicken with Crisp Carrots & Leafy Spinach Cat Food",
+      "reorder_rate": 0.7927
+    },
+    {
+      "product_id": 31981,
+      "product_name": "1% Low Fat Milk",
+      "reorder_rate": 0.7927
+    },
+    {
+      "product_id": 47943,
+      "product_name": "Unsweetened Terere Yerba Mate",
+      "reorder_rate": 0.7926
+    },
+    {
+      "product_id": 39863,
+      "product_name": "Organic 2% Milk",
+      "reorder_rate": 0.7924
+    },
+    {
+      "product_id": 4065,
+      "product_name": "Bean, Cheese, Rice, Salsa Wrap",
+      "reorder_rate": 0.7923
+    },
+    {
+      "product_id": 43434,
+      "product_name": "Lemon-Lime Sparkling Water Beverage",
+      "reorder_rate": 0.7922
+    },
+    {
+      "product_id": 28613,
+      "product_name": "Organic Grapefruit Ginger Sparkling Yerba Mate",
+      "reorder_rate": 0.792
+    },
+    {
+      "product_id": 18527,
+      "product_name": "Indian Pale Ale",
+      "reorder_rate": 0.7917
+    },
+    {
+      "product_id": 11724,
+      "product_name": "Refreshe Cola",
+      "reorder_rate": 0.7917
+    },
+    {
+      "product_id": 48617,
+      "product_name": "Plain New York Bagels",
+      "reorder_rate": 0.7917
+    },
+    {
+      "product_id": 21741,
+      "product_name": "Nibs & Coff Cacao Nectar Bar",
+      "reorder_rate": 0.7917
+    },
+    {
+      "product_id": 2190,
+      "product_name": "Spicy Red Lentil Sauce",
+      "reorder_rate": 0.7917
+    },
+    {
+      "product_id": 39782,
+      "product_name": "Organic Raspberry Mate Energy Drink",
+      "reorder_rate": 0.7913
+    },
+    {
+      "product_id": 34920,
+      "product_name": "Just Crisps, Caesar",
+      "reorder_rate": 0.791
+    },
+    {
+      "product_id": 28593,
+      "product_name": "Reduced Fat 2% Chocolate Milk",
+      "reorder_rate": 0.7908
+    },
+    {
+      "product_id": 10851,
+      "product_name": "Natural Alpine Spring Water",
+      "reorder_rate": 0.7908
+    },
+    {
+      "product_id": 22385,
+      "product_name": "K-Kritters Chocolate Animal Cookies",
+      "reorder_rate": 0.7907
+    },
+    {
+      "product_id": 32626,
+      "product_name": "Tootsie Roll Favorites",
+      "reorder_rate": 0.7905
+    },
+    {
+      "product_id": 25013,
+      "product_name": "Unsweetened Elegant Jasmine Green Tea",
+      "reorder_rate": 0.7904
+    },
+    {
+      "product_id": 7521,
+      "product_name": "New Orleans Iced Coffee",
+      "reorder_rate": 0.7902
+    },
+    {
+      "product_id": 14366,
+      "product_name": "Enlighten Mint Organic",
+      "reorder_rate": 0.7901
+    },
+    {
+      "product_id": 42443,
+      "product_name": "Whole Milk With Vitamin D",
+      "reorder_rate": 0.7901
+    },
+    {
+      "product_id": 8311,
+      "product_name": "Sheep Milk Yogurt Vanilla",
+      "reorder_rate": 0.79
+    },
+    {
+      "product_id": 7699,
+      "product_name": "Cardinal Zin Beastly Old Vines Zinfandel",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 38246,
+      "product_name": "Paraduxx Z Red Blend",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 36876,
+      "product_name": "Magnesium Citrate Cherry",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 11958,
+      "product_name": "Coconut Crunch Gluten Free Cookie",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 24290,
+      "product_name": "Rainforest Blend Coffee K-Cups",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 41933,
+      "product_name": "Black Cherry 4pk12oz",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 30499,
+      "product_name": "Special Blend Lemonade",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 28751,
+      "product_name": "Tuscan Herb Butter",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 7957,
+      "product_name": "Decaf-Zero Green Tea With Ginseng",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 18577,
+      "product_name": "Malt Balls",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 3380,
+      "product_name": "Premium Dog Food Turkey & Chicken Formula",
+      "reorder_rate": 0.7895
+    },
+    {
+      "product_id": 35914,
+      "product_name": "Dha Omega 3 Reduced Fat 2% Milk",
+      "reorder_rate": 0.7894
+    },
+    {
+      "product_id": 3957,
+      "product_name": "100% Raw Coconut Water",
+      "reorder_rate": 0.7885
+    },
+    {
+      "product_id": 266,
+      "product_name": "Rio Berry",
+      "reorder_rate": 0.7885
+    },
+    {
+      "product_id": 18807,
+      "product_name": "Seltzer, Cherry Pomegranate",
+      "reorder_rate": 0.7882
+    },
+    {
+      "product_id": 43498,
+      "product_name": "Sparkling French Berry Lemonade",
+      "reorder_rate": 0.7879
+    },
+    {
+      "product_id": 38555,
+      "product_name": "Amber Alt Style Ale",
+      "reorder_rate": 0.7879
+    },
+    {
+      "product_id": 35829,
+      "product_name": "Nearly Naked Popcorn",
+      "reorder_rate": 0.7879
+    },
+    {
+      "product_id": 40362,
+      "product_name": "Ultra Plush White Mega Rolls",
+      "reorder_rate": 0.7879
+    },
+    {
+      "product_id": 48372,
+      "product_name": "Caramel Coffee Cake Ground Coffee",
+      "reorder_rate": 0.7879
+    },
+    {
+      "product_id": 29869,
+      "product_name": "New Zealand Artesian Water",
+      "reorder_rate": 0.7871
+    },
+    {
+      "product_id": 26346,
+      "product_name": "Organic Skim Milk",
+      "reorder_rate": 0.787
+    },
+    {
+      "product_id": 5680,
+      "product_name": "All Natural Homogenized Vitamin D Milk",
+      "reorder_rate": 0.787
+    },
+    {
+      "product_id": 19853,
+      "product_name": "Traditional Hummus Snack Pack",
+      "reorder_rate": 0.7869
+    },
+    {
+      "product_id": 1696,
+      "product_name": "Honey Oat",
+      "reorder_rate": 0.7867
+    },
+    {
+      "product_id": 17630,
+      "product_name": "YoKids Squeeze! Organic Strawberry Flavor Yogurt",
+      "reorder_rate": 0.7861
+    },
+    {
+      "product_id": 24243,
+      "product_name": "Organic Diabetic Lifestyle Bread",
+      "reorder_rate": 0.786
+    },
+    {
+      "product_id": 15146,
+      "product_name": "Vanilla Rice Drink",
+      "reorder_rate": 0.786
+    },
+    {
+      "product_id": 3971,
+      "product_name": "Organic Pear",
+      "reorder_rate": 0.7857
+    },
+    {
+      "product_id": 20098,
+      "product_name": "Protein Energy Bar Original Peanut Butter Creme",
+      "reorder_rate": 0.7857
+    },
+    {
+      "product_id": 6524,
+      "product_name": "Moscato, D'Asti, DOCG, 2011",
+      "reorder_rate": 0.7857
+    },
+    {
+      "product_id": 36716,
+      "product_name": "Crisp White",
+      "reorder_rate": 0.7857
+    },
+    {
+      "product_id": 34902,
+      "product_name": "Core Hydration Water",
+      "reorder_rate": 0.7857
+    },
+    {
+      "product_id": 23876,
+      "product_name": "Chunky Beef Meaty Ground Dog Food",
+      "reorder_rate": 0.7857
+    },
+    {
+      "product_id": 2496,
+      "product_name": "Bockwurst",
+      "reorder_rate": 0.7857
+    },
+    {
+      "product_id": 9760,
+      "product_name": "Diet Cran-Mango Juice",
+      "reorder_rate": 0.7857
+    },
+    {
+      "product_id": 9964,
+      "product_name": "Superfood Dark Chocolate and Peanut Butter Seedbar",
+      "reorder_rate": 0.7855
+    },
+    {
+      "product_id": 32439,
+      "product_name": "DanActive Strawberry Probiotic Dairy Drink",
+      "reorder_rate": 0.7855
+    },
+    {
+      "product_id": 29010,
+      "product_name": "Original Cat Litter",
+      "reorder_rate": 0.7853
+    },
+    {
+      "product_id": 30885,
+      "product_name": "Acidophilus Yogurt",
+      "reorder_rate": 0.7853
+    },
+    {
+      "product_id": 45636,
+      "product_name": "Cranberry Pomegranate Sparkling Yerba Mate",
+      "reorder_rate": 0.7852
+    },
+    {
+      "product_id": 17725,
+      "product_name": "Organic Wraps Traditional - 6 CT",
+      "reorder_rate": 0.7852
+    },
+    {
+      "product_id": 37718,
+      "product_name": "Blueberry Whole Milk Yogurt Pouch",
+      "reorder_rate": 0.7852
+    },
+    {
+      "product_id": 8571,
+      "product_name": "Baby Cucumbers",
+      "reorder_rate": 0.7851
+    },
+    {
+      "product_id": 46932,
+      "product_name": "All Natural Coconut Water",
+      "reorder_rate": 0.785
+    },
+    {
+      "product_id": 12193,
+      "product_name": "100% Florida Orange Juice",
+      "reorder_rate": 0.785
+    },
+    {
+      "product_id": 18825,
+      "product_name": "Wakame Seaweed & Shiitake Mushrooms",
+      "reorder_rate": 0.7849
+    },
+    {
+      "product_id": 1723,
+      "product_name": "Lowfat 2% Milkfat Russian Yogurt",
+      "reorder_rate": 0.7845
+    },
+    {
+      "product_id": 44386,
+      "product_name": "Multi Cat",
+      "reorder_rate": 0.7844
+    },
+    {
+      "product_id": 32751,
+      "product_name": "Breakfast Treats Original Cookies",
+      "reorder_rate": 0.7842
+    },
+    {
+      "product_id": 40691,
+      "product_name": "Whole Jersey Milk Low Pasteurized",
+      "reorder_rate": 0.7841
+    },
+    {
+      "product_id": 11784,
+      "product_name": "Duck Eggs",
+      "reorder_rate": 0.784
+    },
+    {
+      "product_id": 14358,
+      "product_name": "Organic Almond Chocolate Non Dairy Beverage",
+      "reorder_rate": 0.7839
+    },
+    {
+      "product_id": 31998,
+      "product_name": "Jordan Almonds",
+      "reorder_rate": 0.7838
+    },
+    {
+      "product_id": 18328,
+      "product_name": "Tangerine Lemonade",
+      "reorder_rate": 0.7838
+    },
+    {
+      "product_id": 24419,
+      "product_name": "Yogurt, Lowfat, Plain",
+      "reorder_rate": 0.7838
+    },
+    {
+      "product_id": 44918,
+      "product_name": "Sweet Potato Julienne Fries",
+      "reorder_rate": 0.7838
+    },
+    {
+      "product_id": 895,
+      "product_name": "YoKids Squeeze Organic Blueberry Blue Yogurt",
+      "reorder_rate": 0.7833
+    },
+    {
+      "product_id": 24441,
+      "product_name": "2% Reduced Fat Milk With Vitamin A&D",
+      "reorder_rate": 0.7833
+    },
+    {
+      "product_id": 43734,
+      "product_name": "Plain Soy Milk",
+      "reorder_rate": 0.7832
+    },
+    {
+      "product_id": 36948,
+      "product_name": "Rehab Lemonade Tea",
+      "reorder_rate": 0.7832
+    },
+    {
+      "product_id": 780,
+      "product_name": "Breadstick",
+      "reorder_rate": 0.7829
+    },
+    {
+      "product_id": 42813,
+      "product_name": "Smoked Maple Ham",
+      "reorder_rate": 0.7827
+    },
+    {
+      "product_id": 13479,
+      "product_name": "Coffee All Natural Lowfat Yogurt",
+      "reorder_rate": 0.7827
+    },
+    {
+      "product_id": 37710,
+      "product_name": "Trail Mix",
+      "reorder_rate": 0.7826
+    },
+    {
+      "product_id": 21778,
+      "product_name": "Midnight Dark Candy Bar",
+      "reorder_rate": 0.7826
+    },
+    {
+      "product_id": 15530,
+      "product_name": "Torpedo Extra IPA",
+      "reorder_rate": 0.7826
+    },
+    {
+      "product_id": 11986,
+      "product_name": "Silhouette for Women L/XL Briefs",
+      "reorder_rate": 0.7826
+    },
+    {
+      "product_id": 49235,
+      "product_name": "Organic Half & Half",
+      "reorder_rate": 0.7822
+    },
+    {
+      "product_id": 5360,
+      "product_name": "BioKefir Pomegranate & Blueberry Flavor Cultured Milk",
+      "reorder_rate": 0.7822
+    },
+    {
+      "product_id": 39820,
+      "product_name": "Advance Infant Formula with Iron On-the-Go",
+      "reorder_rate": 0.7821
+    },
+    {
+      "product_id": 29509,
+      "product_name": "80 Vodka Holiday Edition",
+      "reorder_rate": 0.782
+    },
+    {
+      "product_id": 45603,
+      "product_name": "Trilogy Kombucha Drink",
+      "reorder_rate": 0.7819
+    },
+    {
+      "product_id": 39210,
+      "product_name": "Super Premium Chocolate Ice Cream",
+      "reorder_rate": 0.7816
+    },
+    {
+      "product_id": 6182,
+      "product_name": "Natural Artesian Bottled Water",
+      "reorder_rate": 0.7815
+    },
+    {
+      "product_id": 877,
+      "product_name": "Ultra-Filtered Whole Milk",
+      "reorder_rate": 0.7814
+    },
+    {
+      "product_id": 42419,
+      "product_name": "Morning Oat Crunch Cinnamon Cereal",
+      "reorder_rate": 0.7812
+    },
+    {
+      "product_id": 24744,
+      "product_name": "German Style Quark Vanilla Bean",
+      "reorder_rate": 0.7812
+    },
+    {
+      "product_id": 43154,
+      "product_name": "Sparkling Mineral Water",
+      "reorder_rate": 0.781
+    },
+    {
+      "product_id": 27237,
+      "product_name": "Butter Top Wheat Bread",
+      "reorder_rate": 0.781
+    },
+    {
+      "product_id": 19050,
+      "product_name": "Smoked Mussels",
+      "reorder_rate": 0.7808
+    },
+    {
+      "product_id": 20463,
+      "product_name": "Organic Fat-Free Milk",
+      "reorder_rate": 0.7808
+    },
+    {
+      "product_id": 41517,
+      "product_name": "Sidekicks Chocolate Shake",
+      "reorder_rate": 0.7807
+    },
+    {
+      "product_id": 38451,
+      "product_name": "ProActive Health Adult Large Breed Weight Control Premium Dry Dog Food",
+      "reorder_rate": 0.7805
+    },
+    {
+      "product_id": 47611,
+      "product_name": "M&M's Vanilla Lowfat Yogurt",
+      "reorder_rate": 0.7803
+    },
+    {
+      "product_id": 4210,
+      "product_name": "Whole Milk",
+      "reorder_rate": 0.7801
+    },
+    {
+      "product_id": 45186,
+      "product_name": "Original Non-Dairy Coffee Creamer",
+      "reorder_rate": 0.78
+    },
+    {
+      "product_id": 17407,
+      "product_name": "Cranberry Kombucha",
+      "reorder_rate": 0.78
+    },
+    {
+      "product_id": 27247,
+      "product_name": "Original Soy Creamer",
+      "reorder_rate": 0.78
+    },
+    {
+      "product_id": 33478,
+      "product_name": "Fountain Classics Diet Root Beer",
+      "reorder_rate": 0.7795
+    },
+    {
+      "product_id": 13285,
+      "product_name": "Organics Second Generation Grain Free Cat Food",
+      "reorder_rate": 0.7794
+    },
+    {
+      "product_id": 44917,
+      "product_name": "Sea Salt Adzuki Bean Crackers",
+      "reorder_rate": 0.7794
+    },
+    {
+      "product_id": 892,
+      "product_name": "White Tea Lavender Probiotic Kefir Water No. 2",
+      "reorder_rate": 0.7794
+    },
+    {
+      "product_id": 48988,
+      "product_name": "Unsweetened Premium Iced Tea",
+      "reorder_rate": 0.7791
+    },
+    {
+      "product_id": 5063,
+      "product_name": "Maple & Pecan Granola Gluten Free",
+      "reorder_rate": 0.7791
+    },
+    {
+      "product_id": 45240,
+      "product_name": "Sausages, Little Pork",
+      "reorder_rate": 0.7791
+    },
+    {
+      "product_id": 4085,
+      "product_name": "Chocolate Peanut Butter Nutrition Bar",
+      "reorder_rate": 0.7789
+    },
+    {
+      "product_id": 12475,
+      "product_name": "Deadman's Reach Organic Dark Roast Whole Bean Coffee",
+      "reorder_rate": 0.7788
+    },
+    {
+      "product_id": 17871,
+      "product_name": "Grade A Goat Milk",
+      "reorder_rate": 0.7786
+    },
+    {
+      "product_id": 18202,
+      "product_name": "Asiago Cheese Sourdough Bread",
+      "reorder_rate": 0.7784
+    },
+    {
+      "product_id": 43739,
+      "product_name": "Variety Diet Tea",
+      "reorder_rate": 0.7782
+    },
+    {
+      "product_id": 21137,
+      "product_name": "Organic Strawberries",
+      "reorder_rate": 0.7782
+    },
+    {
+      "product_id": 13575,
+      "product_name": "Apples",
+      "reorder_rate": 0.7782
+    },
+    {
+      "product_id": 196,
+      "product_name": "Soda",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 10640,
+      "product_name": "Java Monster Mean Bean Energy Drink",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 37608,
+      "product_name": "Tangy Original Citrus Punch Juice",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 18192,
+      "product_name": "Gluten Free Granola, Nutty Cranberry Maple, Family Value Size",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 7382,
+      "product_name": "Saucesations with Beef in Garden Sauce Cat Food",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 12152,
+      "product_name": "Green Tea Sugar Free Chewing Gum",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 44109,
+      "product_name": "Chickpea Snacks Habanero Medium Spicy",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 42414,
+      "product_name": "Little Champions Variety Pack Dog Food",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 33057,
+      "product_name": "Organic Sensible Sipper Banana",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 9744,
+      "product_name": "Mini Pull-Aparts Cinnamon Rolls",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 33528,
+      "product_name": "Very Berry Strawberry Milk",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 12445,
+      "product_name": "Tasters Choice Stick Columbian",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 11802,
+      "product_name": "Rosemont Crest Blend Coffee",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 45228,
+      "product_name": "Temptations Turkey Flavor Treats",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 2216,
+      "product_name": "California Champagne",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 2139,
+      "product_name": "Ruination Double India Pale Ale",
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 30233,
+      "product_name": "Organic Large Brown Grade AA Cage Free Eggs",
+      "reorder_rate": 0.7776
+    },
+    {
+      "product_id": 23909,
+      "product_name": "2% Reduced Fat Milk",
+      "reorder_rate": 0.7775
+    },
+    {
+      "product_id": 39834,
+      "product_name": "Chocolate Low Fat Milk",
+      "reorder_rate": 0.7775
+    },
+    {
+      "product_id": 43693,
+      "product_name": "Whole Vitamin D Milk",
+      "reorder_rate": 0.7775
+    },
+    {
+      "product_id": 1729,
+      "product_name": "2% Lactose Free Milk",
+      "reorder_rate": 0.7772
+    },
+    {
+      "product_id": 6533,
+      "product_name": "1% Lowfat Organic Milk",
+      "reorder_rate": 0.7768
+    },
+    {
+      "product_id": 666,
+      "product_name": "Whole Wheat Loaves",
+      "reorder_rate": 0.7766
+    },
+    {
+      "product_id": 25493,
+      "product_name": "Cookies 'n Cream with Oreo Cookie Pieces Lowfat Yogurt",
+      "reorder_rate": 0.7766
+    },
+    {
+      "product_id": 15973,
+      "product_name": "Black Currant Juice",
+      "reorder_rate": 0.7766
+    },
+    {
+      "product_id": 11520,
+      "product_name": "Large Alfresco Eggs",
+      "reorder_rate": 0.7764
+    },
+    {
+      "product_id": 44857,
+      "product_name": "Myoplex Original Chocolate Fudge Protein Shake",
+      "reorder_rate": 0.7763
+    },
+    {
+      "product_id": 9518,
+      "product_name": "Probiotic, Strong, Capsule",
+      "reorder_rate": 0.7759
+    },
+    {
+      "product_id": 47699,
+      "product_name": "Product 19 Cereal",
+      "reorder_rate": 0.7759
+    },
+    {
+      "product_id": 4828,
+      "product_name": "Krave Double Chocolate Cereal",
+      "reorder_rate": 0.7758
+    },
+    {
+      "product_id": 39853,
+      "product_name": "Slim Pack Doublemint Gum",
+      "reorder_rate": 0.7755
+    },
+    {
+      "product_id": 34944,
+      "product_name": "Shredded Wild Salmon Fare Cat Food",
+      "reorder_rate": 0.7755
+    },
+    {
+      "product_id": 14636,
+      "product_name": "Eggo Chocolate Chip Pancakes 12 Count",
+      "reorder_rate": 0.7755
+    },
+    {
+      "product_id": 15708,
+      "product_name": "Lime Tangerine Yerba Mate Shot",
+      "reorder_rate": 0.7754
+    },
+    {
+      "product_id": 35628,
+      "product_name": "Organic Strawberry Smoothie",
+      "reorder_rate": 0.7753
+    },
+    {
+      "product_id": 5115,
+      "product_name": "Organic Medium Brown Eggs",
+      "reorder_rate": 0.7752
+    },
+    {
+      "product_id": 19907,
+      "product_name": "Black Tea With Lemon",
+      "reorder_rate": 0.775
+    },
+    {
+      "product_id": 23525,
+      "product_name": "Big Cup Peanut Butter Lovers Cup",
+      "reorder_rate": 0.775
+    },
+    {
+      "product_id": 13371,
+      "product_name": "Mixed Berry Sparkling Water",
+      "reorder_rate": 0.7749
+    },
+    {
+      "product_id": 4100,
+      "product_name": "Organic Dark Roast",
+      "reorder_rate": 0.7748
+    },
+    {
+      "product_id": 4813,
+      "product_name": "Original Acai Juice",
+      "reorder_rate": 0.7745
+    },
+    {
+      "product_id": 43124,
+      "product_name": "Kick Start Energizing Fruit Punch Sparkling Juice Beverage",
+      "reorder_rate": 0.7745
+    },
+    {
+      "product_id": 21903,
+      "product_name": "Organic Baby Spinach",
+      "reorder_rate": 0.7745
+    },
+    {
+      "product_id": 46640,
+      "product_name": "Grain Free Soft Dog Food",
+      "reorder_rate": 0.7742
+    },
+    {
+      "product_id": 8715,
+      "product_name": "Deluxe Bread Wheat",
+      "reorder_rate": 0.7742
+    },
+    {
+      "product_id": 42808,
+      "product_name": "Yogurt Honey Peanut Bar",
+      "reorder_rate": 0.7742
+    },
+    {
+      "product_id": 45051,
+      "product_name": "Pub Mix",
+      "reorder_rate": 0.7741
+    },
+    {
+      "product_id": 17924,
+      "product_name": "Seltzer Water",
+      "reorder_rate": 0.774
+    },
+    {
+      "product_id": 14853,
+      "product_name": "Organic Oat Non-Dairy Original Beverage",
+      "reorder_rate": 0.7739
+    },
+    {
+      "product_id": 32655,
+      "product_name": "Organic Large Grade AA Brown Eggs",
+      "reorder_rate": 0.7738
+    },
+    {
+      "product_id": 20620,
+      "product_name": "Cherry Turnover",
+      "reorder_rate": 0.7738
+    },
+    {
+      "product_id": 20851,
+      "product_name": "Filtered Fresh 2% Reduced Fat Milk",
+      "reorder_rate": 0.7737
+    },
+    {
+      "product_id": 12935,
+      "product_name": "Organic Pasture Raised Brown Eggs",
+      "reorder_rate": 0.7734
+    },
+    {
+      "product_id": 14924,
+      "product_name": "Organic Yerba Mate Traditional",
+      "reorder_rate": 0.773
+    },
+    {
+      "product_id": 49078,
+      "product_name": "Dark Chocolate Espresso Skinny Dipped Almonds",
+      "reorder_rate": 0.7727
+    },
+    {
+      "product_id": 8279,
+      "product_name": "Honeysuckle Nectarine Probiotic Tea Tonic",
+      "reorder_rate": 0.7727
+    },
+    {
+      "product_id": 46576,
+      "product_name": "Pink Grapefruit Sparkling Water with Juice",
+      "reorder_rate": 0.7727
+    },
+    {
+      "product_id": 14361,
+      "product_name": "Honey Sunflower Butter",
+      "reorder_rate": 0.7727
+    },
+    {
+      "product_id": 30045,
+      "product_name": "Just Crisps Russian Rye",
+      "reorder_rate": 0.7727
+    },
+    {
+      "product_id": 19026,
+      "product_name": "New Orleans Kettle Style Salt & Vinegar Potato Chips",
+      "reorder_rate": 0.7727
+    },
+    {
+      "product_id": 26752,
+      "product_name": "Condensed Classic Recipe Double Noodle Family Size",
+      "reorder_rate": 0.7727
+    },
+    {
+      "product_id": 23387,
+      "product_name": "Fancy Feast Classic Cat Food with Chicken Vegetables & Whitefish",
+      "reorder_rate": 0.7727
+    },
+    {
+      "product_id": 43845,
+      "product_name": "Diet Pepsi Soda",
+      "reorder_rate": 0.7726
+    },
+    {
+      "product_id": 1940,
+      "product_name": "Organic 2% Reduced Fat Milk",
+      "reorder_rate": 0.7726
+    },
+    {
+      "product_id": 19820,
+      "product_name": "Grassmilk 2% Reduced Fat Milk",
+      "reorder_rate": 0.7721
+    },
+    {
+      "product_id": 44689,
+      "product_name": "Chocolate Chip Cookie Dough Protein Bars",
+      "reorder_rate": 0.7721
+    },
+    {
+      "product_id": 44632,
+      "product_name": "Sparkling Water Grapefruit",
+      "reorder_rate": 0.772
+    },
+    {
+      "product_id": 24365,
+      "product_name": "French Vanilla Cappuccino",
+      "reorder_rate": 0.7719
+    },
+    {
+      "product_id": 1814,
+      "product_name": "Austin's Own Goodflow Honey Green Tea",
+      "reorder_rate": 0.7719
+    },
+    {
+      "product_id": 8834,
+      "product_name": "Raspberry Lime Sparkling Seltzer Water",
+      "reorder_rate": 0.7715
+    },
+    {
+      "product_id": 30110,
+      "product_name": "Selects Very Low Sodium Chunk White Albacore Tuna in Water",
+      "reorder_rate": 0.7714
+    },
+    {
+      "product_id": 8647,
+      "product_name": "Apple Kiwi Strawberry Concentrate Frozen",
+      "reorder_rate": 0.7714
+    }
+  ]
+}

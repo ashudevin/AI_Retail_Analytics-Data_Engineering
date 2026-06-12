@@ -1,0 +1,46 @@
+{
+  "last_updated": "2026-06-12T13:30:41.328944+00:00",
+  "summary": {
+    "total_orders": 3346083,
+    "total_line_items": 33819106,
+    "mean_basket_size": 10.11,
+    "median_basket_size": 8.0,
+    "min_basket_size": 1,
+    "max_basket_size": 145,
+    "std_basket_size": 7.54
+  },
+  "distribution": [
+    {
+      "bucket": "1",
+      "orders": 163593
+    },
+    {
+      "bucket": "2",
+      "orders": 194361
+    },
+    {
+      "bucket": "3-4",
+      "orders": 445359
+    },
+    {
+      "bucket": "5-9",
+      "orders": 1105076
+    },
+    {
+      "bucket": "10-19",
+      "orders": 1069647
+    },
+    {
+      "bucket": "20-49",
+      "orders": 364282
+    },
+    {
+      "bucket": "50-99",
+      "orders": 3741
+    },
+    {
+      "bucket": "100+",
+      "orders": 24
+    }
+  ]
+}

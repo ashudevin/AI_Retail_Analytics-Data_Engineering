@@ -1,0 +1,3506 @@
+{
+  "last_updated": "2026-06-12T13:30:41.328944+00:00",
+  "total_products": 49685,
+  "products": [
+    {
+      "product_id": 24852,
+      "product_name": "Banana",
+      "total_orders": 491291,
+      "total_reorders": 415166,
+      "reorder_rate": 0.8451
+    },
+    {
+      "product_id": 13176,
+      "product_name": "Bag of Organic Bananas",
+      "total_orders": 394930,
+      "total_reorders": 329275,
+      "reorder_rate": 0.8338
+    },
+    {
+      "product_id": 21137,
+      "product_name": "Organic Strawberries",
+      "total_orders": 275577,
+      "total_reorders": 214448,
+      "reorder_rate": 0.7782
+    },
+    {
+      "product_id": 21903,
+      "product_name": "Organic Baby Spinach",
+      "total_orders": 251705,
+      "total_reorders": 194939,
+      "reorder_rate": 0.7745
+    },
+    {
+      "product_id": 47209,
+      "product_name": "Organic Hass Avocado",
+      "total_orders": 220877,
+      "total_reorders": 176173,
+      "reorder_rate": 0.7976
+    },
+    {
+      "product_id": 47766,
+      "product_name": "Organic Avocado",
+      "total_orders": 184224,
+      "total_reorders": 140270,
+      "reorder_rate": 0.7614
+    },
+    {
+      "product_id": 47626,
+      "product_name": "Large Lemon",
+      "total_orders": 160792,
+      "total_reorders": 112178,
+      "reorder_rate": 0.6977
+    },
+    {
+      "product_id": 16797,
+      "product_name": "Strawberries",
+      "total_orders": 149445,
+      "total_reorders": 104588,
+      "reorder_rate": 0.6998
+    },
+    {
+      "product_id": 26209,
+      "product_name": "Limes",
+      "total_orders": 146660,
+      "total_reorders": 100002,
+      "reorder_rate": 0.6819
+    },
+    {
+      "product_id": 27845,
+      "product_name": "Organic Whole Milk",
+      "total_orders": 142813,
+      "total_reorders": 118684,
+      "reorder_rate": 0.831
+    },
+    {
+      "product_id": 27966,
+      "product_name": "Organic Raspberries",
+      "total_orders": 142603,
+      "total_reorders": 109688,
+      "reorder_rate": 0.7692
+    },
+    {
+      "product_id": 22935,
+      "product_name": "Organic Yellow Onion",
+      "total_orders": 117716,
+      "total_reorders": 82166,
+      "reorder_rate": 0.698
+    },
+    {
+      "product_id": 24964,
+      "product_name": "Organic Garlic",
+      "total_orders": 113936,
+      "total_reorders": 77704,
+      "reorder_rate": 0.682
+    },
+    {
+      "product_id": 45007,
+      "product_name": "Organic Zucchini",
+      "total_orders": 109412,
+      "total_reorders": 75431,
+      "reorder_rate": 0.6894
+    },
+    {
+      "product_id": 39275,
+      "product_name": "Organic Blueberries",
+      "total_orders": 105026,
+      "total_reorders": 66306,
+      "reorder_rate": 0.6313
+    },
+    {
+      "product_id": 49683,
+      "product_name": "Cucumber Kirby",
+      "total_orders": 99728,
+      "total_reorders": 69022,
+      "reorder_rate": 0.6921
+    },
+    {
+      "product_id": 28204,
+      "product_name": "Organic Fuji Apple",
+      "total_orders": 92889,
+      "total_reorders": 66237,
+      "reorder_rate": 0.7131
+    },
+    {
+      "product_id": 5876,
+      "product_name": "Organic Lemon",
+      "total_orders": 91251,
+      "total_reorders": 63046,
+      "reorder_rate": 0.6909
+    },
+    {
+      "product_id": 40706,
+      "product_name": "Organic Grape Tomatoes",
+      "total_orders": 88078,
+      "total_reorders": 57957,
+      "reorder_rate": 0.658
+    },
+    {
+      "product_id": 8277,
+      "product_name": "Apple Honeycrisp Organic",
+      "total_orders": 87272,
+      "total_reorders": 64134,
+      "reorder_rate": 0.7349
+    },
+    {
+      "product_id": 4920,
+      "product_name": "Seedless Red Grapes",
+      "total_orders": 86748,
+      "total_reorders": 58046,
+      "reorder_rate": 0.6691
+    },
+    {
+      "product_id": 30391,
+      "product_name": "Organic Cucumber",
+      "total_orders": 85005,
+      "total_reorders": 59058,
+      "reorder_rate": 0.6948
+    },
+    {
+      "product_id": 45066,
+      "product_name": "Honeycrisp Apple",
+      "total_orders": 83320,
+      "total_reorders": 60473,
+      "reorder_rate": 0.7258
+    },
+    {
+      "product_id": 42265,
+      "product_name": "Organic Baby Carrots",
+      "total_orders": 80493,
+      "total_reorders": 52951,
+      "reorder_rate": 0.6578
+    },
+    {
+      "product_id": 44632,
+      "product_name": "Sparkling Water Grapefruit",
+      "total_orders": 79245,
+      "total_reorders": 61175,
+      "reorder_rate": 0.772
+    },
+    {
+      "product_id": 49235,
+      "product_name": "Organic Half & Half",
+      "total_orders": 79006,
+      "total_reorders": 61801,
+      "reorder_rate": 0.7822
+    },
+    {
+      "product_id": 19057,
+      "product_name": "Organic Large Extra Fancy Fuji Apple",
+      "total_orders": 78056,
+      "total_reorders": 59489,
+      "reorder_rate": 0.7621
+    },
+    {
+      "product_id": 4605,
+      "product_name": "Yellow Onions",
+      "total_orders": 76929,
+      "total_reorders": 45817,
+      "reorder_rate": 0.5956
+    },
+    {
+      "product_id": 21616,
+      "product_name": "Organic Baby Arugula",
+      "total_orders": 75752,
+      "total_reorders": 51869,
+      "reorder_rate": 0.6847
+    },
+    {
+      "product_id": 37646,
+      "product_name": "Organic Gala Apples",
+      "total_orders": 75655,
+      "total_reorders": 55506,
+      "reorder_rate": 0.7337
+    },
+    {
+      "product_id": 17794,
+      "product_name": "Carrots",
+      "total_orders": 75233,
+      "total_reorders": 48215,
+      "reorder_rate": 0.6409
+    },
+    {
+      "product_id": 27104,
+      "product_name": "Fresh Cauliflower",
+      "total_orders": 74235,
+      "total_reorders": 47788,
+      "reorder_rate": 0.6437
+    },
+    {
+      "product_id": 30489,
+      "product_name": "Original Hummus",
+      "total_orders": 74172,
+      "total_reorders": 53910,
+      "reorder_rate": 0.7268
+    },
+    {
+      "product_id": 31717,
+      "product_name": "Organic Cilantro",
+      "total_orders": 73050,
+      "total_reorders": 45411,
+      "reorder_rate": 0.6216
+    },
+    {
+      "product_id": 27086,
+      "product_name": "Half & Half",
+      "total_orders": 71641,
+      "total_reorders": 54626,
+      "reorder_rate": 0.7625
+    },
+    {
+      "product_id": 46979,
+      "product_name": "Asparagus",
+      "total_orders": 71151,
+      "total_reorders": 44042,
+      "reorder_rate": 0.619
+    },
+    {
+      "product_id": 8518,
+      "product_name": "Organic Red Onion",
+      "total_orders": 70804,
+      "total_reorders": 43757,
+      "reorder_rate": 0.618
+    },
+    {
+      "product_id": 44359,
+      "product_name": "Organic Small Bunch Celery",
+      "total_orders": 70714,
+      "total_reorders": 44621,
+      "reorder_rate": 0.631
+    },
+    {
+      "product_id": 28985,
+      "product_name": "Michigan Organic Kale",
+      "total_orders": 70076,
+      "total_reorders": 48785,
+      "reorder_rate": 0.6962
+    },
+    {
+      "product_id": 41950,
+      "product_name": "Organic Tomato Cluster",
+      "total_orders": 66827,
+      "total_reorders": 43983,
+      "reorder_rate": 0.6582
+    },
+    {
+      "product_id": 26604,
+      "product_name": "Organic Blackberries",
+      "total_orders": 64589,
+      "total_reorders": 42138,
+      "reorder_rate": 0.6524
+    },
+    {
+      "product_id": 5077,
+      "product_name": "100% Whole Wheat Bread",
+      "total_orders": 63114,
+      "total_reorders": 46586,
+      "reorder_rate": 0.7381
+    },
+    {
+      "product_id": 34126,
+      "product_name": "Organic Italian Parsley Bunch",
+      "total_orders": 63021,
+      "total_reorders": 38644,
+      "reorder_rate": 0.6132
+    },
+    {
+      "product_id": 22035,
+      "product_name": "Organic Whole String Cheese",
+      "total_orders": 61669,
+      "total_reorders": 47204,
+      "reorder_rate": 0.7654
+    },
+    {
+      "product_id": 39877,
+      "product_name": "Organic Granny Smith Apple",
+      "total_orders": 61116,
+      "total_reorders": 43291,
+      "reorder_rate": 0.7083
+    },
+    {
+      "product_id": 43352,
+      "product_name": "Raspberries",
+      "total_orders": 60919,
+      "total_reorders": 41835,
+      "reorder_rate": 0.6867
+    },
+    {
+      "product_id": 35951,
+      "product_name": "Organic Unsweetened Almond Milk",
+      "total_orders": 60071,
+      "total_reorders": 45558,
+      "reorder_rate": 0.7584
+    },
+    {
+      "product_id": 10749,
+      "product_name": "Organic Red Bell Pepper",
+      "total_orders": 59878,
+      "total_reorders": 39567,
+      "reorder_rate": 0.6608
+    },
+    {
+      "product_id": 19660,
+      "product_name": "Spring Water",
+      "total_orders": 58312,
+      "total_reorders": 47392,
+      "reorder_rate": 0.8127
+    },
+    {
+      "product_id": 9076,
+      "product_name": "Blueberries",
+      "total_orders": 58269,
+      "total_reorders": 33999,
+      "reorder_rate": 0.5835
+    },
+    {
+      "product_id": 24184,
+      "product_name": "Red Peppers",
+      "total_orders": 58185,
+      "total_reorders": 36773,
+      "reorder_rate": 0.632
+    },
+    {
+      "product_id": 21938,
+      "product_name": "Green Bell Pepper",
+      "total_orders": 58005,
+      "total_reorders": 35350,
+      "reorder_rate": 0.6094
+    },
+    {
+      "product_id": 43961,
+      "product_name": "Organic Peeled Whole Baby Carrots",
+      "total_orders": 57831,
+      "total_reorders": 36582,
+      "reorder_rate": 0.6326
+    },
+    {
+      "product_id": 34969,
+      "product_name": "Red Vine Tomato",
+      "total_orders": 56643,
+      "total_reorders": 36296,
+      "reorder_rate": 0.6408
+    },
+    {
+      "product_id": 48679,
+      "product_name": "Organic Garnet Sweet Potato (Yam)",
+      "total_orders": 54507,
+      "total_reorders": 36087,
+      "reorder_rate": 0.6621
+    },
+    {
+      "product_id": 46667,
+      "product_name": "Organic Ginger Root",
+      "total_orders": 54094,
+      "total_reorders": 31089,
+      "reorder_rate": 0.5747
+    },
+    {
+      "product_id": 12341,
+      "product_name": "Hass Avocados",
+      "total_orders": 52497,
+      "total_reorders": 39138,
+      "reorder_rate": 0.7455
+    },
+    {
+      "product_id": 25890,
+      "product_name": "Boneless Skinless Chicken Breasts",
+      "total_orders": 52369,
+      "total_reorders": 34796,
+      "reorder_rate": 0.6644
+    },
+    {
+      "product_id": 31506,
+      "product_name": "Extra Virgin Olive Oil",
+      "total_orders": 52323,
+      "total_reorders": 24984,
+      "reorder_rate": 0.4775
+    },
+    {
+      "product_id": 5450,
+      "product_name": "Small Hass Avocado",
+      "total_orders": 52124,
+      "total_reorders": 35113,
+      "reorder_rate": 0.6736
+    },
+    {
+      "product_id": 39928,
+      "product_name": "Organic Kiwi",
+      "total_orders": 52021,
+      "total_reorders": 37156,
+      "reorder_rate": 0.7143
+    },
+    {
+      "product_id": 24838,
+      "product_name": "Unsweetened Almondmilk",
+      "total_orders": 51738,
+      "total_reorders": 38958,
+      "reorder_rate": 0.753
+    },
+    {
+      "product_id": 22825,
+      "product_name": "Organic D'Anjou Pears",
+      "total_orders": 50808,
+      "total_reorders": 35088,
+      "reorder_rate": 0.6906
+    },
+    {
+      "product_id": 5785,
+      "product_name": "Organic Reduced Fat 2% Milk",
+      "total_orders": 49374,
+      "total_reorders": 39820,
+      "reorder_rate": 0.8065
+    },
+    {
+      "product_id": 35221,
+      "product_name": "Lime Sparkling Water",
+      "total_orders": 48512,
+      "total_reorders": 36014,
+      "reorder_rate": 0.7424
+    },
+    {
+      "product_id": 28842,
+      "product_name": "Bunched Cilantro",
+      "total_orders": 47450,
+      "total_reorders": 27019,
+      "reorder_rate": 0.5694
+    },
+    {
+      "product_id": 33731,
+      "product_name": "Grated Parmesan",
+      "total_orders": 46932,
+      "total_reorders": 28702,
+      "reorder_rate": 0.6116
+    },
+    {
+      "product_id": 8424,
+      "product_name": "Broccoli Crown",
+      "total_orders": 44976,
+      "total_reorders": 29211,
+      "reorder_rate": 0.6495
+    },
+    {
+      "product_id": 27521,
+      "product_name": "Organic Lacinato (Dinosaur) Kale",
+      "total_orders": 44828,
+      "total_reorders": 31248,
+      "reorder_rate": 0.6971
+    },
+    {
+      "product_id": 33198,
+      "product_name": "Sparkling Natural Mineral Water",
+      "total_orders": 44737,
+      "total_reorders": 32848,
+      "reorder_rate": 0.7342
+    },
+    {
+      "product_id": 8174,
+      "product_name": "Organic Navel Orange",
+      "total_orders": 44701,
+      "total_reorders": 28620,
+      "reorder_rate": 0.6403
+    },
+    {
+      "product_id": 44142,
+      "product_name": "Red Onion",
+      "total_orders": 44477,
+      "total_reorders": 24534,
+      "reorder_rate": 0.5516
+    },
+    {
+      "product_id": 20114,
+      "product_name": "Jalapeno Peppers",
+      "total_orders": 44460,
+      "total_reorders": 25922,
+      "reorder_rate": 0.583
+    },
+    {
+      "product_id": 27344,
+      "product_name": "Uncured Genoa Salami",
+      "total_orders": 43261,
+      "total_reorders": 28551,
+      "reorder_rate": 0.66
+    },
+    {
+      "product_id": 11520,
+      "product_name": "Large Alfresco Eggs",
+      "total_orders": 42274,
+      "total_reorders": 32821,
+      "reorder_rate": 0.7764
+    },
+    {
+      "product_id": 29487,
+      "product_name": "Roma Tomato",
+      "total_orders": 42165,
+      "total_reorders": 26965,
+      "reorder_rate": 0.6395
+    },
+    {
+      "product_id": 18465,
+      "product_name": "Organic Grade A Free Range Large Brown Eggs",
+      "total_orders": 41812,
+      "total_reorders": 30012,
+      "reorder_rate": 0.7178
+    },
+    {
+      "product_id": 28199,
+      "product_name": "Clementines, Bag",
+      "total_orders": 41303,
+      "total_reorders": 24970,
+      "reorder_rate": 0.6046
+    },
+    {
+      "product_id": 15290,
+      "product_name": "Orange Bell Pepper",
+      "total_orders": 41052,
+      "total_reorders": 24781,
+      "reorder_rate": 0.6036
+    },
+    {
+      "product_id": 46906,
+      "product_name": "Grape White/Green Seedless",
+      "total_orders": 40498,
+      "total_reorders": 27037,
+      "reorder_rate": 0.6676
+    },
+    {
+      "product_id": 9839,
+      "product_name": "Organic Broccoli",
+      "total_orders": 40373,
+      "total_reorders": 28825,
+      "reorder_rate": 0.714
+    },
+    {
+      "product_id": 27156,
+      "product_name": "Organic Black Beans",
+      "total_orders": 39577,
+      "total_reorders": 23356,
+      "reorder_rate": 0.5901
+    },
+    {
+      "product_id": 3957,
+      "product_name": "100% Raw Coconut Water",
+      "total_orders": 39271,
+      "total_reorders": 30966,
+      "reorder_rate": 0.7885
+    },
+    {
+      "product_id": 43122,
+      "product_name": "Organic Bartlett Pear",
+      "total_orders": 38686,
+      "total_reorders": 27378,
+      "reorder_rate": 0.7077
+    },
+    {
+      "product_id": 23909,
+      "product_name": "2% Reduced Fat Milk",
+      "total_orders": 38631,
+      "total_reorders": 30036,
+      "reorder_rate": 0.7775
+    },
+    {
+      "product_id": 34358,
+      "product_name": "Garlic",
+      "total_orders": 38537,
+      "total_reorders": 22700,
+      "reorder_rate": 0.589
+    },
+    {
+      "product_id": 4799,
+      "product_name": "Shredded Parmesan",
+      "total_orders": 37689,
+      "total_reorders": 24259,
+      "reorder_rate": 0.6437
+    },
+    {
+      "product_id": 9387,
+      "product_name": "Granny Smith Apples",
+      "total_orders": 37566,
+      "total_reorders": 24478,
+      "reorder_rate": 0.6516
+    },
+    {
+      "product_id": 16759,
+      "product_name": "Organic Carrot Bunch",
+      "total_orders": 37562,
+      "total_reorders": 21797,
+      "reorder_rate": 0.5803
+    },
+    {
+      "product_id": 196,
+      "product_name": "Soda",
+      "total_orders": 37298,
+      "total_reorders": 29012,
+      "reorder_rate": 0.7778
+    },
+    {
+      "product_id": 42736,
+      "product_name": "Unsalted Butter",
+      "total_orders": 37102,
+      "total_reorders": 20678,
+      "reorder_rate": 0.5573
+    },
+    {
+      "product_id": 4210,
+      "product_name": "Whole Milk",
+      "total_orders": 36968,
+      "total_reorders": 28837,
+      "reorder_rate": 0.7801
+    },
+    {
+      "product_id": 38689,
+      "product_name": "Organic Reduced Fat Milk",
+      "total_orders": 36869,
+      "total_reorders": 31394,
+      "reorder_rate": 0.8515
+    },
+    {
+      "product_id": 41787,
+      "product_name": "Bartlett Pears",
+      "total_orders": 36620,
+      "total_reorders": 23814,
+      "reorder_rate": 0.6503
+    },
+    {
+      "product_id": 47144,
+      "product_name": "Unsweetened Original Almond Breeze Almond Milk",
+      "total_orders": 36048,
+      "total_reorders": 25775,
+      "reorder_rate": 0.715
+    },
+    {
+      "product_id": 41220,
+      "product_name": "Organic Romaine Lettuce",
+      "total_orders": 36028,
+      "total_reorders": 22298,
+      "reorder_rate": 0.6189
+    },
+    {
+      "product_id": 7781,
+      "product_name": "Organic Sticks Low Moisture Part Skim Mozzarella String Cheese",
+      "total_orders": 35551,
+      "total_reorders": 26020,
+      "reorder_rate": 0.7319
+    },
+    {
+      "product_id": 33000,
+      "product_name": "Pure Irish Butter",
+      "total_orders": 35384,
+      "total_reorders": 23300,
+      "reorder_rate": 0.6585
+    },
+    {
+      "product_id": 20995,
+      "product_name": "Organic Broccoli Florets",
+      "total_orders": 34248,
+      "total_reorders": 22331,
+      "reorder_rate": 0.652
+    },
+    {
+      "product_id": 21709,
+      "product_name": "Sparkling Lemon Water",
+      "total_orders": 34211,
+      "total_reorders": 25479,
+      "reorder_rate": 0.7448
+    },
+    {
+      "product_id": 40604,
+      "product_name": "Feta Cheese Crumbles",
+      "total_orders": 33800,
+      "total_reorders": 18927,
+      "reorder_rate": 0.56
+    },
+    {
+      "product_id": 19678,
+      "product_name": "Organic Russet Potato",
+      "total_orders": 33708,
+      "total_reorders": 20653,
+      "reorder_rate": 0.6127
+    },
+    {
+      "product_id": 30233,
+      "product_name": "Organic Large Brown Grade AA Cage Free Eggs",
+      "total_orders": 33242,
+      "total_reorders": 25849,
+      "reorder_rate": 0.7776
+    },
+    {
+      "product_id": 34243,
+      "product_name": "Organic Baby Broccoli",
+      "total_orders": 33143,
+      "total_reorders": 21487,
+      "reorder_rate": 0.6483
+    },
+    {
+      "product_id": 37687,
+      "product_name": "Organic Spring Mix",
+      "total_orders": 33130,
+      "total_reorders": 22167,
+      "reorder_rate": 0.6691
+    },
+    {
+      "product_id": 24489,
+      "product_name": "Organic Whole Strawberries",
+      "total_orders": 32658,
+      "total_reorders": 20548,
+      "reorder_rate": 0.6292
+    },
+    {
+      "product_id": 42828,
+      "product_name": "Whipped Cream Cheese",
+      "total_orders": 32270,
+      "total_reorders": 22297,
+      "reorder_rate": 0.691
+    },
+    {
+      "product_id": 432,
+      "product_name": "Vanilla Almond Breeze Almond Milk",
+      "total_orders": 32212,
+      "total_reorders": 23519,
+      "reorder_rate": 0.7301
+    },
+    {
+      "product_id": 6184,
+      "product_name": "Clementines",
+      "total_orders": 32194,
+      "total_reorders": 24434,
+      "reorder_rate": 0.759
+    },
+    {
+      "product_id": 5479,
+      "product_name": "Italian Sparkling Mineral Water",
+      "total_orders": 32069,
+      "total_reorders": 26119,
+      "reorder_rate": 0.8145
+    },
+    {
+      "product_id": 16185,
+      "product_name": "Sharp Cheddar Cheese",
+      "total_orders": 31432,
+      "total_reorders": 19369,
+      "reorder_rate": 0.6162
+    },
+    {
+      "product_id": 42768,
+      "product_name": "Organic Garbanzo Beans",
+      "total_orders": 31196,
+      "total_reorders": 17448,
+      "reorder_rate": 0.5593
+    },
+    {
+      "product_id": 17948,
+      "product_name": "Frozen Organic Wild Blueberries",
+      "total_orders": 30970,
+      "total_reorders": 19265,
+      "reorder_rate": 0.6221
+    },
+    {
+      "product_id": 33754,
+      "product_name": "Total 2% with Strawberry Lowfat Greek Strained Yogurt",
+      "total_orders": 30866,
+      "total_reorders": 23156,
+      "reorder_rate": 0.7502
+    },
+    {
+      "product_id": 8193,
+      "product_name": "Russet Potato",
+      "total_orders": 30731,
+      "total_reorders": 17311,
+      "reorder_rate": 0.5633
+    },
+    {
+      "product_id": 19348,
+      "product_name": "Fat Free Milk",
+      "total_orders": 30565,
+      "total_reorders": 23531,
+      "reorder_rate": 0.7699
+    },
+    {
+      "product_id": 26369,
+      "product_name": "Organic Roma Tomato",
+      "total_orders": 30517,
+      "total_reorders": 19596,
+      "reorder_rate": 0.6421
+    },
+    {
+      "product_id": 42585,
+      "product_name": "Organic Extra Firm Tofu",
+      "total_orders": 30310,
+      "total_reorders": 20171,
+      "reorder_rate": 0.6655
+    },
+    {
+      "product_id": 14992,
+      "product_name": "Green Beans",
+      "total_orders": 30229,
+      "total_reorders": 17639,
+      "reorder_rate": 0.5835
+    },
+    {
+      "product_id": 14947,
+      "product_name": "Pure Sparkling Water",
+      "total_orders": 30009,
+      "total_reorders": 24410,
+      "reorder_rate": 0.8134
+    },
+    {
+      "product_id": 22963,
+      "product_name": "Organic Roasted Turkey Breast",
+      "total_orders": 29507,
+      "total_reorders": 19624,
+      "reorder_rate": 0.6651
+    },
+    {
+      "product_id": 28849,
+      "product_name": "No Salt Added Black Beans",
+      "total_orders": 29174,
+      "total_reorders": 16958,
+      "reorder_rate": 0.5813
+    },
+    {
+      "product_id": 8021,
+      "product_name": "100% Recycled Paper Towels",
+      "total_orders": 29047,
+      "total_reorders": 17204,
+      "reorder_rate": 0.5923
+    },
+    {
+      "product_id": 1463,
+      "product_name": "Organic Milk",
+      "total_orders": 28850,
+      "total_reorders": 23404,
+      "reorder_rate": 0.8112
+    },
+    {
+      "product_id": 25659,
+      "product_name": "Organic Coconut Milk",
+      "total_orders": 28300,
+      "total_reorders": 15051,
+      "reorder_rate": 0.5318
+    },
+    {
+      "product_id": 21405,
+      "product_name": "Organic Red Radish, Bunch",
+      "total_orders": 28267,
+      "total_reorders": 17423,
+      "reorder_rate": 0.6164
+    },
+    {
+      "product_id": 5025,
+      "product_name": "Green Onions",
+      "total_orders": 27981,
+      "total_reorders": 14589,
+      "reorder_rate": 0.5214
+    },
+    {
+      "product_id": 41844,
+      "product_name": "Honey Nut Cheerios",
+      "total_orders": 27959,
+      "total_reorders": 16043,
+      "reorder_rate": 0.5738
+    },
+    {
+      "product_id": 43789,
+      "product_name": "Organic Basil",
+      "total_orders": 27890,
+      "total_reorders": 14289,
+      "reorder_rate": 0.5123
+    },
+    {
+      "product_id": 46676,
+      "product_name": "Total 0% Nonfat Greek Yogurt",
+      "total_orders": 27871,
+      "total_reorders": 19018,
+      "reorder_rate": 0.6824
+    },
+    {
+      "product_id": 31343,
+      "product_name": "Shredded Mild Cheddar Cheese",
+      "total_orders": 27813,
+      "total_reorders": 16562,
+      "reorder_rate": 0.5955
+    },
+    {
+      "product_id": 42701,
+      "product_name": "Organic Sour Cream",
+      "total_orders": 27738,
+      "total_reorders": 15477,
+      "reorder_rate": 0.558
+    },
+    {
+      "product_id": 11777,
+      "product_name": "Red Raspberries",
+      "total_orders": 27713,
+      "total_reorders": 17873,
+      "reorder_rate": 0.6449
+    },
+    {
+      "product_id": 38293,
+      "product_name": "Ground Turkey Breast",
+      "total_orders": 27679,
+      "total_reorders": 17843,
+      "reorder_rate": 0.6446
+    },
+    {
+      "product_id": 43295,
+      "product_name": "Unsweetened Vanilla Almond Milk",
+      "total_orders": 27555,
+      "total_reorders": 19346,
+      "reorder_rate": 0.7021
+    },
+    {
+      "product_id": 36011,
+      "product_name": "Organic Fat Free Milk",
+      "total_orders": 27402,
+      "total_reorders": 22824,
+      "reorder_rate": 0.8329
+    },
+    {
+      "product_id": 39475,
+      "product_name": "Total Greek Strained Yogurt",
+      "total_orders": 27394,
+      "total_reorders": 19362,
+      "reorder_rate": 0.7068
+    },
+    {
+      "product_id": 20842,
+      "product_name": "Total 0% Greek Yogurt",
+      "total_orders": 27200,
+      "total_reorders": 18829,
+      "reorder_rate": 0.6922
+    },
+    {
+      "product_id": 32689,
+      "product_name": "Romaine Hearts",
+      "total_orders": 26962,
+      "total_reorders": 16121,
+      "reorder_rate": 0.5979
+    },
+    {
+      "product_id": 2295,
+      "product_name": "Yellow Bell Pepper",
+      "total_orders": 26625,
+      "total_reorders": 14447,
+      "reorder_rate": 0.5426
+    },
+    {
+      "product_id": 32655,
+      "product_name": "Organic Large Grade AA Brown Eggs",
+      "total_orders": 26575,
+      "total_reorders": 20564,
+      "reorder_rate": 0.7738
+    },
+    {
+      "product_id": 46802,
+      "product_name": "Pineapple Chunks",
+      "total_orders": 26027,
+      "total_reorders": 14939,
+      "reorder_rate": 0.574
+    },
+    {
+      "product_id": 25146,
+      "product_name": "Original Orange Juice",
+      "total_orders": 25972,
+      "total_reorders": 16465,
+      "reorder_rate": 0.634
+    },
+    {
+      "product_id": 13870,
+      "product_name": "Lightly Salted Baked Snap Pea Crisps",
+      "total_orders": 25941,
+      "total_reorders": 16303,
+      "reorder_rate": 0.6285
+    },
+    {
+      "product_id": 18531,
+      "product_name": "Organic Heavy Whipping Cream",
+      "total_orders": 25530,
+      "total_reorders": 15241,
+      "reorder_rate": 0.597
+    },
+    {
+      "product_id": 31553,
+      "product_name": "Fresh Ginger Root",
+      "total_orders": 25414,
+      "total_reorders": 12346,
+      "reorder_rate": 0.4858
+    },
+    {
+      "product_id": 5212,
+      "product_name": "Watermelon Chunks",
+      "total_orders": 25388,
+      "total_reorders": 18800,
+      "reorder_rate": 0.7405
+    },
+    {
+      "product_id": 260,
+      "product_name": "Cantaloupe",
+      "total_orders": 25115,
+      "total_reorders": 15922,
+      "reorder_rate": 0.634
+    },
+    {
+      "product_id": 39408,
+      "product_name": "Gala Apples",
+      "total_orders": 25045,
+      "total_reorders": 15641,
+      "reorder_rate": 0.6245
+    },
+    {
+      "product_id": 10246,
+      "product_name": "Organic Celery Hearts",
+      "total_orders": 24888,
+      "total_reorders": 13067,
+      "reorder_rate": 0.525
+    },
+    {
+      "product_id": 36695,
+      "product_name": "Organic Hothouse Cucumbers",
+      "total_orders": 24818,
+      "total_reorders": 16754,
+      "reorder_rate": 0.6751
+    },
+    {
+      "product_id": 24830,
+      "product_name": "Organic Romaine",
+      "total_orders": 24794,
+      "total_reorders": 15226,
+      "reorder_rate": 0.6141
+    },
+    {
+      "product_id": 38383,
+      "product_name": "Organic White Onions",
+      "total_orders": 24491,
+      "total_reorders": 15342,
+      "reorder_rate": 0.6264
+    },
+    {
+      "product_id": 43768,
+      "product_name": "Organic Bell Pepper",
+      "total_orders": 24331,
+      "total_reorders": 14358,
+      "reorder_rate": 0.5901
+    },
+    {
+      "product_id": 11182,
+      "product_name": "Baby Spinach",
+      "total_orders": 24276,
+      "total_reorders": 14670,
+      "reorder_rate": 0.6043
+    },
+    {
+      "product_id": 1940,
+      "product_name": "Organic 2% Reduced Fat Milk",
+      "total_orders": 24175,
+      "total_reorders": 18677,
+      "reorder_rate": 0.7726
+    },
+    {
+      "product_id": 18362,
+      "product_name": "Organic Bread with 21 Whole Grains",
+      "total_orders": 23944,
+      "total_reorders": 17143,
+      "reorder_rate": 0.716
+    },
+    {
+      "product_id": 21288,
+      "product_name": "Blackberries",
+      "total_orders": 23941,
+      "total_reorders": 15035,
+      "reorder_rate": 0.628
+    },
+    {
+      "product_id": 18523,
+      "product_name": "Total 2% All Natural Greek Strained Yogurt with Honey",
+      "total_orders": 23844,
+      "total_reorders": 17396,
+      "reorder_rate": 0.7296
+    },
+    {
+      "product_id": 6046,
+      "product_name": "Boneless Skinless Chicken Breast",
+      "total_orders": 23533,
+      "total_reorders": 15628,
+      "reorder_rate": 0.6641
+    },
+    {
+      "product_id": 44683,
+      "product_name": "Brussels Sprouts",
+      "total_orders": 23424,
+      "total_reorders": 12631,
+      "reorder_rate": 0.5392
+    },
+    {
+      "product_id": 29987,
+      "product_name": "Shredded Mozzarella",
+      "total_orders": 22943,
+      "total_reorders": 11888,
+      "reorder_rate": 0.5182
+    },
+    {
+      "product_id": 890,
+      "product_name": "Organic Diced Tomatoes",
+      "total_orders": 22834,
+      "total_reorders": 10933,
+      "reorder_rate": 0.4788
+    },
+    {
+      "product_id": 43772,
+      "product_name": "Cherubs Heavenly Salad Tomatoes",
+      "total_orders": 22576,
+      "total_reorders": 14925,
+      "reorder_rate": 0.6611
+    },
+    {
+      "product_id": 23734,
+      "product_name": "Sour Cream",
+      "total_orders": 22562,
+      "total_reorders": 12063,
+      "reorder_rate": 0.5347
+    },
+    {
+      "product_id": 30450,
+      "product_name": "Creamy Almond Butter",
+      "total_orders": 22340,
+      "total_reorders": 12664,
+      "reorder_rate": 0.5669
+    },
+    {
+      "product_id": 38777,
+      "product_name": "Organic Green Seedless Grapes",
+      "total_orders": 22335,
+      "total_reorders": 13803,
+      "reorder_rate": 0.618
+    },
+    {
+      "product_id": 38456,
+      "product_name": "Large Grapefruit",
+      "total_orders": 22296,
+      "total_reorders": 12525,
+      "reorder_rate": 0.5618
+    },
+    {
+      "product_id": 7948,
+      "product_name": "Organic Unsalted Butter",
+      "total_orders": 22252,
+      "total_reorders": 12538,
+      "reorder_rate": 0.5635
+    },
+    {
+      "product_id": 44910,
+      "product_name": "Organic Spring Mix Salad",
+      "total_orders": 22193,
+      "total_reorders": 13389,
+      "reorder_rate": 0.6033
+    },
+    {
+      "product_id": 47734,
+      "product_name": "Organic Green Cabbage",
+      "total_orders": 22137,
+      "total_reorders": 11492,
+      "reorder_rate": 0.5191
+    },
+    {
+      "product_id": 46969,
+      "product_name": "Organic Bosc Pear",
+      "total_orders": 22137,
+      "total_reorders": 15111,
+      "reorder_rate": 0.6826
+    },
+    {
+      "product_id": 26620,
+      "product_name": "Peach Pear Flavored Sparkling Water",
+      "total_orders": 22132,
+      "total_reorders": 15051,
+      "reorder_rate": 0.6801
+    },
+    {
+      "product_id": 38159,
+      "product_name": "Organic Yellow Peaches",
+      "total_orders": 21993,
+      "total_reorders": 13122,
+      "reorder_rate": 0.5966
+    },
+    {
+      "product_id": 47672,
+      "product_name": "Uncured Hickory Smoked Sunday Bacon",
+      "total_orders": 21610,
+      "total_reorders": 13327,
+      "reorder_rate": 0.6167
+    },
+    {
+      "product_id": 26165,
+      "product_name": "Electrolyte Enhanced Water",
+      "total_orders": 21582,
+      "total_reorders": 16617,
+      "reorder_rate": 0.7699
+    },
+    {
+      "product_id": 30776,
+      "product_name": "Organic Raw Kombucha Gingerade",
+      "total_orders": 21562,
+      "total_reorders": 16524,
+      "reorder_rate": 0.7663
+    },
+    {
+      "product_id": 44987,
+      "product_name": "Heavy Whipping Cream",
+      "total_orders": 21562,
+      "total_reorders": 10899,
+      "reorder_rate": 0.5055
+    },
+    {
+      "product_id": 4957,
+      "product_name": "Total 2% Lowfat Greek Strained Yogurt With Blueberry",
+      "total_orders": 21405,
+      "total_reorders": 16092,
+      "reorder_rate": 0.7518
+    },
+    {
+      "product_id": 35939,
+      "product_name": "Organic Jalapeno Pepper",
+      "total_orders": 21112,
+      "total_reorders": 11997,
+      "reorder_rate": 0.5683
+    },
+    {
+      "product_id": 28289,
+      "product_name": "Organic Shredded Carrots",
+      "total_orders": 21041,
+      "total_reorders": 13046,
+      "reorder_rate": 0.62
+    },
+    {
+      "product_id": 16953,
+      "product_name": "Creamy Peanut Butter",
+      "total_orders": 21024,
+      "total_reorders": 11047,
+      "reorder_rate": 0.5254
+    },
+    {
+      "product_id": 14678,
+      "product_name": "Organic Frozen Peas",
+      "total_orders": 20981,
+      "total_reorders": 11845,
+      "reorder_rate": 0.5646
+    },
+    {
+      "product_id": 40310,
+      "product_name": "Oven Roasted Turkey Breast",
+      "total_orders": 20966,
+      "total_reorders": 13376,
+      "reorder_rate": 0.638
+    },
+    {
+      "product_id": 16349,
+      "product_name": "Organic Yams",
+      "total_orders": 20921,
+      "total_reorders": 11849,
+      "reorder_rate": 0.5664
+    },
+    {
+      "product_id": 37067,
+      "product_name": "Organic Banana",
+      "total_orders": 20915,
+      "total_reorders": 12501,
+      "reorder_rate": 0.5977
+    },
+    {
+      "product_id": 44422,
+      "product_name": "Organic Old Fashioned Rolled Oats",
+      "total_orders": 20887,
+      "total_reorders": 11285,
+      "reorder_rate": 0.5403
+    },
+    {
+      "product_id": 29447,
+      "product_name": "Milk, Organic, Vitamin D",
+      "total_orders": 20770,
+      "total_reorders": 17753,
+      "reorder_rate": 0.8547
+    },
+    {
+      "product_id": 23375,
+      "product_name": "Marinara Sauce",
+      "total_orders": 20752,
+      "total_reorders": 13025,
+      "reorder_rate": 0.6277
+    },
+    {
+      "product_id": 2078,
+      "product_name": "Unsalted Pure Irish Butter",
+      "total_orders": 20582,
+      "total_reorders": 13644,
+      "reorder_rate": 0.6629
+    },
+    {
+      "product_id": 19048,
+      "product_name": "Organic Butternut Squash",
+      "total_orders": 20562,
+      "total_reorders": 9603,
+      "reorder_rate": 0.467
+    },
+    {
+      "product_id": 32864,
+      "product_name": "Organic Baby Rainbow Carrots",
+      "total_orders": 20553,
+      "total_reorders": 12141,
+      "reorder_rate": 0.5907
+    },
+    {
+      "product_id": 33787,
+      "product_name": "Total 2% Lowfat Greek Strained Yogurt with Peach",
+      "total_orders": 20552,
+      "total_reorders": 15527,
+      "reorder_rate": 0.7555
+    },
+    {
+      "product_id": 13984,
+      "product_name": "Organic Mint",
+      "total_orders": 20487,
+      "total_reorders": 11176,
+      "reorder_rate": 0.5455
+    },
+    {
+      "product_id": 41290,
+      "product_name": "Lemonade",
+      "total_orders": 20483,
+      "total_reorders": 13728,
+      "reorder_rate": 0.6702
+    },
+    {
+      "product_id": 8859,
+      "product_name": "Natural Spring Water",
+      "total_orders": 20468,
+      "total_reorders": 15523,
+      "reorder_rate": 0.7584
+    },
+    {
+      "product_id": 23165,
+      "product_name": "Organic Leek",
+      "total_orders": 20435,
+      "total_reorders": 10650,
+      "reorder_rate": 0.5212
+    },
+    {
+      "product_id": 48364,
+      "product_name": "Sweet Onion",
+      "total_orders": 20417,
+      "total_reorders": 10825,
+      "reorder_rate": 0.5302
+    },
+    {
+      "product_id": 17600,
+      "product_name": "YoKids Squeezers Organic Low-Fat Yogurt, Strawberry",
+      "total_orders": 20344,
+      "total_reorders": 14242,
+      "reorder_rate": 0.7001
+    },
+    {
+      "product_id": 33120,
+      "product_name": "Organic Egg Whites",
+      "total_orders": 20234,
+      "total_reorders": 14371,
+      "reorder_rate": 0.7102
+    },
+    {
+      "product_id": 39812,
+      "product_name": "Organic Thyme",
+      "total_orders": 20209,
+      "total_reorders": 8393,
+      "reorder_rate": 0.4153
+    },
+    {
+      "product_id": 31683,
+      "product_name": "Original No Pulp 100% Florida Orange Juice",
+      "total_orders": 20164,
+      "total_reorders": 12429,
+      "reorder_rate": 0.6164
+    },
+    {
+      "product_id": 26940,
+      "product_name": "Organic Large Green Asparagus",
+      "total_orders": 20016,
+      "total_reorders": 11007,
+      "reorder_rate": 0.5499
+    },
+    {
+      "product_id": 35108,
+      "product_name": "Salted Butter",
+      "total_orders": 19971,
+      "total_reorders": 12089,
+      "reorder_rate": 0.6053
+    },
+    {
+      "product_id": 28465,
+      "product_name": "Icelandic Style Skyr Blueberry Non-fat Yogurt",
+      "total_orders": 19962,
+      "total_reorders": 14830,
+      "reorder_rate": 0.7429
+    },
+    {
+      "product_id": 26283,
+      "product_name": "White Corn",
+      "total_orders": 19400,
+      "total_reorders": 11294,
+      "reorder_rate": 0.5822
+    },
+    {
+      "product_id": 38739,
+      "product_name": "Hass Avocado",
+      "total_orders": 19198,
+      "total_reorders": 11445,
+      "reorder_rate": 0.5962
+    },
+    {
+      "product_id": 37158,
+      "product_name": "Chicken & Maple Breakfast Sausage",
+      "total_orders": 19172,
+      "total_reorders": 13197,
+      "reorder_rate": 0.6883
+    },
+    {
+      "product_id": 3952,
+      "product_name": "Organic Broccoli Crowns",
+      "total_orders": 19145,
+      "total_reorders": 12733,
+      "reorder_rate": 0.6651
+    },
+    {
+      "product_id": 2086,
+      "product_name": "Sustainably Soft Bath Tissue",
+      "total_orders": 19052,
+      "total_reorders": 11430,
+      "reorder_rate": 0.5999
+    },
+    {
+      "product_id": 18370,
+      "product_name": "Organic Shredded Mozzarella",
+      "total_orders": 19041,
+      "total_reorders": 11508,
+      "reorder_rate": 0.6044
+    },
+    {
+      "product_id": 45,
+      "product_name": "European Cucumber",
+      "total_orders": 19038,
+      "total_reorders": 12505,
+      "reorder_rate": 0.6568
+    },
+    {
+      "product_id": 41665,
+      "product_name": "Organic Mexican Blend Finely Shredded Cheese",
+      "total_orders": 19031,
+      "total_reorders": 12210,
+      "reorder_rate": 0.6416
+    },
+    {
+      "product_id": 35547,
+      "product_name": "Organic Baby Kale",
+      "total_orders": 18977,
+      "total_reorders": 12134,
+      "reorder_rate": 0.6394
+    },
+    {
+      "product_id": 10957,
+      "product_name": "Fridge Pack Cola",
+      "total_orders": 18914,
+      "total_reorders": 13546,
+      "reorder_rate": 0.7162
+    },
+    {
+      "product_id": 2966,
+      "product_name": "Pure Coconut Water",
+      "total_orders": 18912,
+      "total_reorders": 12231,
+      "reorder_rate": 0.6467
+    },
+    {
+      "product_id": 24799,
+      "product_name": "Vanilla Skyr Nonfat Yogurt",
+      "total_orders": 18899,
+      "total_reorders": 13018,
+      "reorder_rate": 0.6888
+    },
+    {
+      "product_id": 43154,
+      "product_name": "Sparkling Mineral Water",
+      "total_orders": 18847,
+      "total_reorders": 14720,
+      "reorder_rate": 0.781
+    },
+    {
+      "product_id": 43713,
+      "product_name": "Organic Creamy Peanut Butter",
+      "total_orders": 18800,
+      "total_reorders": 10650,
+      "reorder_rate": 0.5665
+    },
+    {
+      "product_id": 10132,
+      "product_name": "Organic American Cheese Singles",
+      "total_orders": 18736,
+      "total_reorders": 13173,
+      "reorder_rate": 0.7031
+    },
+    {
+      "product_id": 40571,
+      "product_name": "Total 2% Greek Strained Yogurt with Cherry 5.3 oz",
+      "total_orders": 18692,
+      "total_reorders": 14002,
+      "reorder_rate": 0.7491
+    },
+    {
+      "product_id": 40396,
+      "product_name": "Guacamole",
+      "total_orders": 18614,
+      "total_reorders": 12305,
+      "reorder_rate": 0.6611
+    },
+    {
+      "product_id": 18027,
+      "product_name": "Ezekiel 4:9 Bread Organic Sprouted Whole Grain",
+      "total_orders": 18487,
+      "total_reorders": 11631,
+      "reorder_rate": 0.6291
+    },
+    {
+      "product_id": 1158,
+      "product_name": "Mango Chunks",
+      "total_orders": 18445,
+      "total_reorders": 10377,
+      "reorder_rate": 0.5626
+    },
+    {
+      "product_id": 25931,
+      "product_name": "Organic Baby Spinach Salad",
+      "total_orders": 18382,
+      "total_reorders": 13183,
+      "reorder_rate": 0.7172
+    },
+    {
+      "product_id": 7021,
+      "product_name": "Organic Tomato Paste",
+      "total_orders": 18336,
+      "total_reorders": 7698,
+      "reorder_rate": 0.4198
+    },
+    {
+      "product_id": 42342,
+      "product_name": "Roasted Turkey Breast",
+      "total_orders": 18260,
+      "total_reorders": 10872,
+      "reorder_rate": 0.5954
+    },
+    {
+      "product_id": 45535,
+      "product_name": "Organic Low Sodium Chicken Broth",
+      "total_orders": 18252,
+      "total_reorders": 8744,
+      "reorder_rate": 0.4791
+    },
+    {
+      "product_id": 13629,
+      "product_name": "Organic Snipped Green Beans",
+      "total_orders": 18195,
+      "total_reorders": 12414,
+      "reorder_rate": 0.6823
+    },
+    {
+      "product_id": 15937,
+      "product_name": "Shallot",
+      "total_orders": 18179,
+      "total_reorders": 9063,
+      "reorder_rate": 0.4985
+    },
+    {
+      "product_id": 42450,
+      "product_name": "Macaroni & Cheese",
+      "total_orders": 18132,
+      "total_reorders": 12675,
+      "reorder_rate": 0.699
+    },
+    {
+      "product_id": 20119,
+      "product_name": "Sparkling Water Berry",
+      "total_orders": 18125,
+      "total_reorders": 12776,
+      "reorder_rate": 0.7049
+    },
+    {
+      "product_id": 32478,
+      "product_name": "Reduced Fat 2% Milk",
+      "total_orders": 18083,
+      "total_reorders": 13831,
+      "reorder_rate": 0.7649
+    },
+    {
+      "product_id": 48745,
+      "product_name": "Globe Eggplant",
+      "total_orders": 17920,
+      "total_reorders": 9666,
+      "reorder_rate": 0.5394
+    },
+    {
+      "product_id": 21019,
+      "product_name": "Roasted Red Pepper Hummus",
+      "total_orders": 17829,
+      "total_reorders": 9798,
+      "reorder_rate": 0.5496
+    },
+    {
+      "product_id": 48205,
+      "product_name": "Spinach",
+      "total_orders": 17707,
+      "total_reorders": 9726,
+      "reorder_rate": 0.5493
+    },
+    {
+      "product_id": 39619,
+      "product_name": "Organic Tomato Basil Pasta Sauce",
+      "total_orders": 17596,
+      "total_reorders": 9323,
+      "reorder_rate": 0.5298
+    },
+    {
+      "product_id": 34050,
+      "product_name": "Orange Juice",
+      "total_orders": 17568,
+      "total_reorders": 12891,
+      "reorder_rate": 0.7338
+    },
+    {
+      "product_id": 34448,
+      "product_name": "Original Veggie Straws",
+      "total_orders": 17534,
+      "total_reorders": 11634,
+      "reorder_rate": 0.6635
+    },
+    {
+      "product_id": 17461,
+      "product_name": "Air Chilled Organic Boneless Skinless Chicken Breasts",
+      "total_orders": 17462,
+      "total_reorders": 11797,
+      "reorder_rate": 0.6756
+    },
+    {
+      "product_id": 45603,
+      "product_name": "Trilogy Kombucha Drink",
+      "total_orders": 17435,
+      "total_reorders": 13632,
+      "reorder_rate": 0.7819
+    },
+    {
+      "product_id": 45633,
+      "product_name": "Organic Beef Hot Dogs",
+      "total_orders": 17360,
+      "total_reorders": 10469,
+      "reorder_rate": 0.6031
+    },
+    {
+      "product_id": 31040,
+      "product_name": "Sea Salt Pita Chips",
+      "total_orders": 17333,
+      "total_reorders": 10156,
+      "reorder_rate": 0.5859
+    },
+    {
+      "product_id": 30169,
+      "product_name": "Total 2% All Natural Plain Greek Yogurt",
+      "total_orders": 17274,
+      "total_reorders": 11953,
+      "reorder_rate": 0.692
+    },
+    {
+      "product_id": 38400,
+      "product_name": "Asparation/Broccolini/Baby Broccoli",
+      "total_orders": 17168,
+      "total_reorders": 9433,
+      "reorder_rate": 0.5495
+    },
+    {
+      "product_id": 13646,
+      "product_name": "Lemon Hummus",
+      "total_orders": 17061,
+      "total_reorders": 12417,
+      "reorder_rate": 0.7278
+    },
+    {
+      "product_id": 21267,
+      "product_name": "Sourdough Bread",
+      "total_orders": 17056,
+      "total_reorders": 11789,
+      "reorder_rate": 0.6912
+    },
+    {
+      "product_id": 40174,
+      "product_name": "2% Reduced Fat Organic Milk",
+      "total_orders": 17042,
+      "total_reorders": 12969,
+      "reorder_rate": 0.761
+    },
+    {
+      "product_id": 5818,
+      "product_name": "White Onion",
+      "total_orders": 17028,
+      "total_reorders": 9400,
+      "reorder_rate": 0.552
+    },
+    {
+      "product_id": 36865,
+      "product_name": "Non Fat Raspberry Yogurt",
+      "total_orders": 16953,
+      "total_reorders": 12659,
+      "reorder_rate": 0.7467
+    },
+    {
+      "product_id": 17872,
+      "product_name": "Total 2% Lowfat Plain Greek Yogurt",
+      "total_orders": 16874,
+      "total_reorders": 10159,
+      "reorder_rate": 0.6021
+    },
+    {
+      "product_id": 26790,
+      "product_name": "Organic AppleApple",
+      "total_orders": 16780,
+      "total_reorders": 12043,
+      "reorder_rate": 0.7177
+    },
+    {
+      "product_id": 23288,
+      "product_name": "Distilled Water",
+      "total_orders": 16664,
+      "total_reorders": 12036,
+      "reorder_rate": 0.7223
+    },
+    {
+      "product_id": 39984,
+      "product_name": "Organic Dill",
+      "total_orders": 16585,
+      "total_reorders": 8250,
+      "reorder_rate": 0.4974
+    },
+    {
+      "product_id": 21376,
+      "product_name": "Pretzel Crisps Original Deli Style Pretzel Crackers",
+      "total_orders": 16584,
+      "total_reorders": 10035,
+      "reorder_rate": 0.6051
+    },
+    {
+      "product_id": 46654,
+      "product_name": "Organic Grade A Large Brown Eggs",
+      "total_orders": 16577,
+      "total_reorders": 9740,
+      "reorder_rate": 0.5876
+    },
+    {
+      "product_id": 14084,
+      "product_name": "Organic Unsweetened Vanilla Almond Milk",
+      "total_orders": 16479,
+      "total_reorders": 13370,
+      "reorder_rate": 0.8113
+    },
+    {
+      "product_id": 32734,
+      "product_name": "Spaghetti",
+      "total_orders": 16453,
+      "total_reorders": 8479,
+      "reorder_rate": 0.5153
+    },
+    {
+      "product_id": 37766,
+      "product_name": "XL Emerald White Seedless Grapes",
+      "total_orders": 16375,
+      "total_reorders": 10077,
+      "reorder_rate": 0.6154
+    },
+    {
+      "product_id": 12206,
+      "product_name": "Basil Pesto",
+      "total_orders": 16337,
+      "total_reorders": 7210,
+      "reorder_rate": 0.4413
+    },
+    {
+      "product_id": 33768,
+      "product_name": "Sinfully Sweet Campari Tomatoes",
+      "total_orders": 16316,
+      "total_reorders": 11104,
+      "reorder_rate": 0.6806
+    },
+    {
+      "product_id": 28934,
+      "product_name": "Frozen Broccoli Florets",
+      "total_orders": 16145,
+      "total_reorders": 9905,
+      "reorder_rate": 0.6135
+    },
+    {
+      "product_id": 39993,
+      "product_name": "Vine Ripe Tomatoes",
+      "total_orders": 16075,
+      "total_reorders": 9091,
+      "reorder_rate": 0.5655
+    },
+    {
+      "product_id": 6187,
+      "product_name": "Raisin Bran Cereal",
+      "total_orders": 16015,
+      "total_reorders": 9757,
+      "reorder_rate": 0.6092
+    },
+    {
+      "product_id": 43086,
+      "product_name": "Super Greens Salad",
+      "total_orders": 15942,
+      "total_reorders": 10177,
+      "reorder_rate": 0.6384
+    },
+    {
+      "product_id": 6348,
+      "product_name": "Mini Original Babybel Cheese",
+      "total_orders": 15941,
+      "total_reorders": 10730,
+      "reorder_rate": 0.6731
+    },
+    {
+      "product_id": 329,
+      "product_name": "Organic Whole Grassmilk Milk",
+      "total_orders": 15939,
+      "total_reorders": 12733,
+      "reorder_rate": 0.7989
+    },
+    {
+      "product_id": 18441,
+      "product_name": "Organic Ketchup",
+      "total_orders": 15914,
+      "total_reorders": 6208,
+      "reorder_rate": 0.3901
+    },
+    {
+      "product_id": 5646,
+      "product_name": "Organic Turkey Bacon",
+      "total_orders": 15905,
+      "total_reorders": 10102,
+      "reorder_rate": 0.6351
+    },
+    {
+      "product_id": 42356,
+      "product_name": "Strawberry Preserves",
+      "total_orders": 15875,
+      "total_reorders": 7827,
+      "reorder_rate": 0.493
+    },
+    {
+      "product_id": 6104,
+      "product_name": "Whole Milk Plain Yogurt",
+      "total_orders": 15821,
+      "total_reorders": 11418,
+      "reorder_rate": 0.7217
+    },
+    {
+      "product_id": 48775,
+      "product_name": "Organic Red Cabbage",
+      "total_orders": 15645,
+      "total_reorders": 7938,
+      "reorder_rate": 0.5074
+    },
+    {
+      "product_id": 10673,
+      "product_name": "Original Nooks & Crannies English Muffins",
+      "total_orders": 15642,
+      "total_reorders": 10028,
+      "reorder_rate": 0.6411
+    },
+    {
+      "product_id": 651,
+      "product_name": "Organic Salted Butter",
+      "total_orders": 15621,
+      "total_reorders": 9361,
+      "reorder_rate": 0.5993
+    },
+    {
+      "product_id": 25340,
+      "product_name": "Large Yellow Flesh Nectarine",
+      "total_orders": 15592,
+      "total_reorders": 9512,
+      "reorder_rate": 0.6101
+    },
+    {
+      "product_id": 47977,
+      "product_name": "Grapefruit Sparkling Water",
+      "total_orders": 15558,
+      "total_reorders": 11353,
+      "reorder_rate": 0.7297
+    },
+    {
+      "product_id": 19508,
+      "product_name": "Corn Tortillas",
+      "total_orders": 15514,
+      "total_reorders": 6974,
+      "reorder_rate": 0.4495
+    },
+    {
+      "product_id": 13535,
+      "product_name": "Organic Medium Salsa",
+      "total_orders": 15401,
+      "total_reorders": 7611,
+      "reorder_rate": 0.4942
+    },
+    {
+      "product_id": 40709,
+      "product_name": "Sea Salt & Vinegar Potato Chips",
+      "total_orders": 15397,
+      "total_reorders": 9623,
+      "reorder_rate": 0.625
+    },
+    {
+      "product_id": 39180,
+      "product_name": "Organic Lowfat 1% Milk",
+      "total_orders": 15352,
+      "total_reorders": 12914,
+      "reorder_rate": 0.8412
+    },
+    {
+      "product_id": 36070,
+      "product_name": "Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale",
+      "total_orders": 15326,
+      "total_reorders": 8819,
+      "reorder_rate": 0.5754
+    },
+    {
+      "product_id": 27336,
+      "product_name": "Organic Rainbow Carrots",
+      "total_orders": 15294,
+      "total_reorders": 7703,
+      "reorder_rate": 0.5037
+    },
+    {
+      "product_id": 19677,
+      "product_name": "Original Pure Creamy Almond Milk",
+      "total_orders": 15276,
+      "total_reorders": 11325,
+      "reorder_rate": 0.7414
+    },
+    {
+      "product_id": 10017,
+      "product_name": "Tilapia Filet",
+      "total_orders": 15250,
+      "total_reorders": 9377,
+      "reorder_rate": 0.6149
+    },
+    {
+      "product_id": 28156,
+      "product_name": "Total 0% Nonfat Plain Greek Yogurt",
+      "total_orders": 15209,
+      "total_reorders": 8539,
+      "reorder_rate": 0.5614
+    },
+    {
+      "product_id": 13829,
+      "product_name": "Mild Salsa",
+      "total_orders": 15185,
+      "total_reorders": 8151,
+      "reorder_rate": 0.5368
+    },
+    {
+      "product_id": 42244,
+      "product_name": "Total 2% All Natural Low Fat 2% Milkfat Greek Strained Yogurt",
+      "total_orders": 15152,
+      "total_reorders": 11138,
+      "reorder_rate": 0.7351
+    },
+    {
+      "product_id": 27695,
+      "product_name": "Natural Chicken & Sage Breakfast Sausage",
+      "total_orders": 15131,
+      "total_reorders": 10226,
+      "reorder_rate": 0.6758
+    },
+    {
+      "product_id": 49520,
+      "product_name": "Orange Sparkling Water",
+      "total_orders": 15090,
+      "total_reorders": 10718,
+      "reorder_rate": 0.7103
+    },
+    {
+      "product_id": 49383,
+      "product_name": "Organic Bunch Beets",
+      "total_orders": 15074,
+      "total_reorders": 7993,
+      "reorder_rate": 0.5303
+    },
+    {
+      "product_id": 6873,
+      "product_name": "Organic Iceberg Lettuce",
+      "total_orders": 15063,
+      "total_reorders": 8587,
+      "reorder_rate": 0.5701
+    },
+    {
+      "product_id": 8571,
+      "product_name": "Baby Cucumbers",
+      "total_orders": 15031,
+      "total_reorders": 11801,
+      "reorder_rate": 0.7851
+    },
+    {
+      "product_id": 40545,
+      "product_name": "Berry Medley",
+      "total_orders": 14894,
+      "total_reorders": 8534,
+      "reorder_rate": 0.573
+    },
+    {
+      "product_id": 16083,
+      "product_name": "Organic Large Brown Eggs",
+      "total_orders": 14874,
+      "total_reorders": 11452,
+      "reorder_rate": 0.7699
+    },
+    {
+      "product_id": 11782,
+      "product_name": "Bing Cherries",
+      "total_orders": 14851,
+      "total_reorders": 7997,
+      "reorder_rate": 0.5385
+    },
+    {
+      "product_id": 24561,
+      "product_name": "Organic Cheese Frozen Pizza",
+      "total_orders": 14851,
+      "total_reorders": 10349,
+      "reorder_rate": 0.6969
+    },
+    {
+      "product_id": 49075,
+      "product_name": "Organic Brown Rice",
+      "total_orders": 14848,
+      "total_reorders": 8548,
+      "reorder_rate": 0.5757
+    },
+    {
+      "product_id": 13249,
+      "product_name": "Skim Milk",
+      "total_orders": 14804,
+      "total_reorders": 11414,
+      "reorder_rate": 0.771
+    },
+    {
+      "product_id": 30720,
+      "product_name": "Sugar Snap Peas",
+      "total_orders": 14777,
+      "total_reorders": 7604,
+      "reorder_rate": 0.5146
+    },
+    {
+      "product_id": 40199,
+      "product_name": "Chocolate Chip Cookies",
+      "total_orders": 14762,
+      "total_reorders": 8866,
+      "reorder_rate": 0.6006
+    },
+    {
+      "product_id": 24024,
+      "product_name": "1% Lowfat Milk",
+      "total_orders": 14692,
+      "total_reorders": 11970,
+      "reorder_rate": 0.8147
+    },
+    {
+      "product_id": 35921,
+      "product_name": "Organic Large Grade A Brown Eggs",
+      "total_orders": 14650,
+      "total_reorders": 10301,
+      "reorder_rate": 0.7031
+    },
+    {
+      "product_id": 17795,
+      "product_name": "Organic Green Leaf Lettuce",
+      "total_orders": 14614,
+      "total_reorders": 8627,
+      "reorder_rate": 0.5903
+    },
+    {
+      "product_id": 17122,
+      "product_name": "Honeycrisp Apples",
+      "total_orders": 14550,
+      "total_reorders": 9849,
+      "reorder_rate": 0.6769
+    },
+    {
+      "product_id": 8670,
+      "product_name": "Diced Tomatoes",
+      "total_orders": 14480,
+      "total_reorders": 6268,
+      "reorder_rate": 0.4329
+    },
+    {
+      "product_id": 35561,
+      "product_name": "Organic Tortilla Chips",
+      "total_orders": 14413,
+      "total_reorders": 9048,
+      "reorder_rate": 0.6278
+    },
+    {
+      "product_id": 25588,
+      "product_name": "Seedless Small Watermelon",
+      "total_orders": 14397,
+      "total_reorders": 7325,
+      "reorder_rate": 0.5088
+    },
+    {
+      "product_id": 11422,
+      "product_name": "Plain Greek Yogurt",
+      "total_orders": 14347,
+      "total_reorders": 10533,
+      "reorder_rate": 0.7342
+    },
+    {
+      "product_id": 31915,
+      "product_name": "Organic Red Delicious Apple",
+      "total_orders": 14334,
+      "total_reorders": 9923,
+      "reorder_rate": 0.6923
+    },
+    {
+      "product_id": 14233,
+      "product_name": "Natural Artesian Water",
+      "total_orders": 14281,
+      "total_reorders": 10820,
+      "reorder_rate": 0.7577
+    },
+    {
+      "product_id": 30827,
+      "product_name": "Seedless Cucumbers",
+      "total_orders": 14264,
+      "total_reorders": 10352,
+      "reorder_rate": 0.7257
+    },
+    {
+      "product_id": 35042,
+      "product_name": "Black Beans",
+      "total_orders": 14259,
+      "total_reorders": 7107,
+      "reorder_rate": 0.4984
+    },
+    {
+      "product_id": 3599,
+      "product_name": "Baked Aged White Cheddar Rice and Corn Puffs",
+      "total_orders": 14237,
+      "total_reorders": 9168,
+      "reorder_rate": 0.644
+    },
+    {
+      "product_id": 7963,
+      "product_name": "Gluten Free Whole Grain Bread",
+      "total_orders": 14207,
+      "total_reorders": 9542,
+      "reorder_rate": 0.6716
+    },
+    {
+      "product_id": 25466,
+      "product_name": "Water",
+      "total_orders": 14183,
+      "total_reorders": 10248,
+      "reorder_rate": 0.7226
+    },
+    {
+      "product_id": 44449,
+      "product_name": "Organic Tomato Sauce",
+      "total_orders": 14181,
+      "total_reorders": 6243,
+      "reorder_rate": 0.4402
+    },
+    {
+      "product_id": 42445,
+      "product_name": "Organic Plain Whole Milk Yogurt",
+      "total_orders": 14160,
+      "total_reorders": 10657,
+      "reorder_rate": 0.7526
+    },
+    {
+      "product_id": 36550,
+      "product_name": "Organic Extra Large Grade AA Brown Eggs",
+      "total_orders": 14149,
+      "total_reorders": 9962,
+      "reorder_rate": 0.7041
+    },
+    {
+      "product_id": 17706,
+      "product_name": "Organic Whole Grain Wheat English Muffins",
+      "total_orders": 14109,
+      "total_reorders": 9566,
+      "reorder_rate": 0.678
+    },
+    {
+      "product_id": 19019,
+      "product_name": "Uncured Slow Cooked Ham",
+      "total_orders": 14079,
+      "total_reorders": 8767,
+      "reorder_rate": 0.6227
+    },
+    {
+      "product_id": 20082,
+      "product_name": "Organic Whole Milk with DHA Omega-3",
+      "total_orders": 14051,
+      "total_reorders": 11539,
+      "reorder_rate": 0.8212
+    },
+    {
+      "product_id": 42625,
+      "product_name": "Flat Parsley, Bunch",
+      "total_orders": 14036,
+      "total_reorders": 6187,
+      "reorder_rate": 0.4408
+    },
+    {
+      "product_id": 21295,
+      "product_name": "Organic Spaghetti Squash",
+      "total_orders": 14022,
+      "total_reorders": 6500,
+      "reorder_rate": 0.4636
+    },
+    {
+      "product_id": 33401,
+      "product_name": "Goat Cheese Crumbles",
+      "total_orders": 14018,
+      "total_reorders": 7715,
+      "reorder_rate": 0.5504
+    },
+    {
+      "product_id": 1511,
+      "product_name": "2% Reduced Fat DHA Omega-3 Reduced Fat Milk",
+      "total_orders": 13972,
+      "total_reorders": 11106,
+      "reorder_rate": 0.7949
+    },
+    {
+      "product_id": 8048,
+      "product_name": "Packaged Grape Tomatoes",
+      "total_orders": 13965,
+      "total_reorders": 10715,
+      "reorder_rate": 0.7673
+    },
+    {
+      "product_id": 16965,
+      "product_name": "Chocolate Ice Cream",
+      "total_orders": 13908,
+      "total_reorders": 7516,
+      "reorder_rate": 0.5404
+    },
+    {
+      "product_id": 23537,
+      "product_name": "Light Brown Sugar",
+      "total_orders": 13853,
+      "total_reorders": 3823,
+      "reorder_rate": 0.276
+    },
+    {
+      "product_id": 5194,
+      "product_name": "Organic Bunny Fruit Snacks Berry Patch",
+      "total_orders": 13847,
+      "total_reorders": 8246,
+      "reorder_rate": 0.5955
+    },
+    {
+      "product_id": 21195,
+      "product_name": "Organic Extra Virgin Olive Oil",
+      "total_orders": 13836,
+      "total_reorders": 6861,
+      "reorder_rate": 0.4959
+    },
+    {
+      "product_id": 4562,
+      "product_name": "English Seedless Cucumber",
+      "total_orders": 13807,
+      "total_reorders": 7725,
+      "reorder_rate": 0.5595
+    },
+    {
+      "product_id": 2825,
+      "product_name": "Organic Original Hommus",
+      "total_orders": 13756,
+      "total_reorders": 8977,
+      "reorder_rate": 0.6526
+    },
+    {
+      "product_id": 15872,
+      "product_name": "Celery Hearts",
+      "total_orders": 13725,
+      "total_reorders": 7985,
+      "reorder_rate": 0.5818
+    },
+    {
+      "product_id": 7751,
+      "product_name": "Tomato Ketchup",
+      "total_orders": 13664,
+      "total_reorders": 4450,
+      "reorder_rate": 0.3257
+    },
+    {
+      "product_id": 38928,
+      "product_name": "0% Greek Strained Yogurt",
+      "total_orders": 13651,
+      "total_reorders": 11287,
+      "reorder_rate": 0.8268
+    },
+    {
+      "product_id": 18288,
+      "product_name": "Sea Salt Potato Chips",
+      "total_orders": 13597,
+      "total_reorders": 8301,
+      "reorder_rate": 0.6105
+    },
+    {
+      "product_id": 40723,
+      "product_name": "Organic Cripps Pink Apples",
+      "total_orders": 13564,
+      "total_reorders": 8854,
+      "reorder_rate": 0.6528
+    },
+    {
+      "product_id": 13380,
+      "product_name": "Organic Blue Corn Tortilla Chips",
+      "total_orders": 13513,
+      "total_reorders": 7465,
+      "reorder_rate": 0.5524
+    },
+    {
+      "product_id": 9339,
+      "product_name": "Organic Chicken & Apple Sausage",
+      "total_orders": 13476,
+      "total_reorders": 8656,
+      "reorder_rate": 0.6423
+    },
+    {
+      "product_id": 22395,
+      "product_name": "Tomato Sauce",
+      "total_orders": 13448,
+      "total_reorders": 6103,
+      "reorder_rate": 0.4538
+    },
+    {
+      "product_id": 28993,
+      "product_name": "Iceberg Lettuce",
+      "total_orders": 13426,
+      "total_reorders": 7328,
+      "reorder_rate": 0.5458
+    },
+    {
+      "product_id": 46720,
+      "product_name": "Organic Free Range Chicken Broth",
+      "total_orders": 13376,
+      "total_reorders": 6233,
+      "reorder_rate": 0.466
+    },
+    {
+      "product_id": 15902,
+      "product_name": "100 Calorie Per Bag Popcorn",
+      "total_orders": 13374,
+      "total_reorders": 9044,
+      "reorder_rate": 0.6762
+    },
+    {
+      "product_id": 4472,
+      "product_name": "Toasted Coconut Almondmilk Blend",
+      "total_orders": 13367,
+      "total_reorders": 9632,
+      "reorder_rate": 0.7206
+    },
+    {
+      "product_id": 38164,
+      "product_name": "Almonds & Sea Salt in Dark Chocolate",
+      "total_orders": 13366,
+      "total_reorders": 8923,
+      "reorder_rate": 0.6676
+    },
+    {
+      "product_id": 3376,
+      "product_name": "Organic Whole Kernel Sweet Corn No Salt Added",
+      "total_orders": 13330,
+      "total_reorders": 6599,
+      "reorder_rate": 0.495
+    },
+    {
+      "product_id": 35140,
+      "product_name": "Organic Whole Cashews",
+      "total_orders": 13292,
+      "total_reorders": 8037,
+      "reorder_rate": 0.6046
+    },
+    {
+      "product_id": 7175,
+      "product_name": "Organic Whipped Naturally Buttery Spread",
+      "total_orders": 13215,
+      "total_reorders": 7261,
+      "reorder_rate": 0.5495
+    },
+    {
+      "product_id": 19706,
+      "product_name": "Organic Nectarine",
+      "total_orders": 13189,
+      "total_reorders": 7993,
+      "reorder_rate": 0.606
+    },
+    {
+      "product_id": 12916,
+      "product_name": "Ginger Ale",
+      "total_orders": 13170,
+      "total_reorders": 6879,
+      "reorder_rate": 0.5223
+    },
+    {
+      "product_id": 2855,
+      "product_name": "Organic Good Seed Bread",
+      "total_orders": 13133,
+      "total_reorders": 9454,
+      "reorder_rate": 0.7199
+    },
+    {
+      "product_id": 13166,
+      "product_name": "Organic Milk Reduced Fat, 2% Milkfat",
+      "total_orders": 13119,
+      "total_reorders": 10984,
+      "reorder_rate": 0.8373
+    },
+    {
+      "product_id": 40516,
+      "product_name": "Organic Romaine Hearts",
+      "total_orders": 13119,
+      "total_reorders": 6159,
+      "reorder_rate": 0.4695
+    },
+    {
+      "product_id": 40332,
+      "product_name": "Cage Free Brown Eggs-Large, Grade A",
+      "total_orders": 13114,
+      "total_reorders": 8122,
+      "reorder_rate": 0.6193
+    },
+    {
+      "product_id": 29662,
+      "product_name": "Potato Yukon Gold Organic",
+      "total_orders": 13101,
+      "total_reorders": 6244,
+      "reorder_rate": 0.4766
+    },
+    {
+      "product_id": 5782,
+      "product_name": "Grade A Large White Eggs",
+      "total_orders": 13088,
+      "total_reorders": 8367,
+      "reorder_rate": 0.6393
+    },
+    {
+      "product_id": 13740,
+      "product_name": "Organic Summer Strawberry Bunny Fruit Snacks",
+      "total_orders": 13043,
+      "total_reorders": 7822,
+      "reorder_rate": 0.5997
+    },
+    {
+      "product_id": 19691,
+      "product_name": "Green Seedless Grapes",
+      "total_orders": 13036,
+      "total_reorders": 8151,
+      "reorder_rate": 0.6253
+    },
+    {
+      "product_id": 5258,
+      "product_name": "Sparkling Water",
+      "total_orders": 12994,
+      "total_reorders": 9029,
+      "reorder_rate": 0.6949
+    },
+    {
+      "product_id": 5134,
+      "product_name": "Organic Thompson Seedless Raisins",
+      "total_orders": 12943,
+      "total_reorders": 7827,
+      "reorder_rate": 0.6047
+    },
+    {
+      "product_id": 45200,
+      "product_name": "Organic Cauliflower",
+      "total_orders": 12936,
+      "total_reorders": 6473,
+      "reorder_rate": 0.5004
+    },
+    {
+      "product_id": 7503,
+      "product_name": "Whole Almonds",
+      "total_orders": 12922,
+      "total_reorders": 7183,
+      "reorder_rate": 0.5559
+    },
+    {
+      "product_id": 12456,
+      "product_name": "Organic Sunday Bacon",
+      "total_orders": 12912,
+      "total_reorders": 7994,
+      "reorder_rate": 0.6191
+    },
+    {
+      "product_id": 10644,
+      "product_name": "Italian Extra Virgin Olive Oil",
+      "total_orders": 12897,
+      "total_reorders": 5336,
+      "reorder_rate": 0.4137
+    },
+    {
+      "product_id": 33129,
+      "product_name": "Classic Hummus",
+      "total_orders": 12890,
+      "total_reorders": 6793,
+      "reorder_rate": 0.527
+    },
+    {
+      "product_id": 13575,
+      "product_name": "Apples",
+      "total_orders": 12883,
+      "total_reorders": 10025,
+      "reorder_rate": 0.7782
+    },
+    {
+      "product_id": 21174,
+      "product_name": "I Heart Baby Kale",
+      "total_orders": 12836,
+      "total_reorders": 7123,
+      "reorder_rate": 0.5549
+    },
+    {
+      "product_id": 20955,
+      "product_name": "Cereal",
+      "total_orders": 12774,
+      "total_reorders": 7475,
+      "reorder_rate": 0.5852
+    },
+    {
+      "product_id": 13198,
+      "product_name": "85% Lean Ground Beef",
+      "total_orders": 12765,
+      "total_reorders": 7986,
+      "reorder_rate": 0.6256
+    },
+    {
+      "product_id": 44570,
+      "product_name": "Kale Greens",
+      "total_orders": 12757,
+      "total_reorders": 7210,
+      "reorder_rate": 0.5652
+    },
+    {
+      "product_id": 39561,
+      "product_name": "Crackers Cheddar Bunnies Snack Packs",
+      "total_orders": 12752,
+      "total_reorders": 7759,
+      "reorder_rate": 0.6085
+    },
+    {
+      "product_id": 44765,
+      "product_name": "Colby Cheese Sticks",
+      "total_orders": 12656,
+      "total_reorders": 9204,
+      "reorder_rate": 0.7272
+    },
+    {
+      "product_id": 46584,
+      "product_name": "YoKids Blueberry & Strawberry/Vanilla Yogurt",
+      "total_orders": 12638,
+      "total_reorders": 8629,
+      "reorder_rate": 0.6828
+    },
+    {
+      "product_id": 37710,
+      "product_name": "Trail Mix",
+      "total_orders": 12601,
+      "total_reorders": 9862,
+      "reorder_rate": 0.7826
+    },
+    {
+      "product_id": 22124,
+      "product_name": "Total 0% Raspberry Yogurt",
+      "total_orders": 12594,
+      "total_reorders": 9120,
+      "reorder_rate": 0.7242
+    },
+    {
+      "product_id": 3464,
+      "product_name": "Organic Butterhead (Boston, Butter, Bibb) Lettuce",
+      "total_orders": 12565,
+      "total_reorders": 6361,
+      "reorder_rate": 0.5062
+    },
+    {
+      "product_id": 7559,
+      "product_name": "Cinnamon Rolls with Icing",
+      "total_orders": 12561,
+      "total_reorders": 7479,
+      "reorder_rate": 0.5954
+    },
+    {
+      "product_id": 32691,
+      "product_name": "Vanilla Ice Cream",
+      "total_orders": 12560,
+      "total_reorders": 6239,
+      "reorder_rate": 0.4967
+    },
+    {
+      "product_id": 43662,
+      "product_name": "Yogurt, Strained Low-Fat, Coconut",
+      "total_orders": 12560,
+      "total_reorders": 8693,
+      "reorder_rate": 0.6921
+    },
+    {
+      "product_id": 35898,
+      "product_name": "Original Hot Sauce",
+      "total_orders": 12543,
+      "total_reorders": 4957,
+      "reorder_rate": 0.3952
+    },
+    {
+      "product_id": 10070,
+      "product_name": "Organic 1% Low Fat Milk",
+      "total_orders": 12530,
+      "total_reorders": 10092,
+      "reorder_rate": 0.8054
+    },
+    {
+      "product_id": 36735,
+      "product_name": "Organic Roasted Sliced Chicken Breast",
+      "total_orders": 12513,
+      "total_reorders": 7619,
+      "reorder_rate": 0.6089
+    },
+    {
+      "product_id": 34262,
+      "product_name": "Hint Of Sea Salt Almond Nut Thins",
+      "total_orders": 12439,
+      "total_reorders": 8186,
+      "reorder_rate": 0.6581
+    },
+    {
+      "product_id": 4421,
+      "product_name": "Organic Beef Uncured Hot Dogs",
+      "total_orders": 12432,
+      "total_reorders": 6826,
+      "reorder_rate": 0.5491
+    },
+    {
+      "product_id": 37029,
+      "product_name": "Cream Cheese Spread",
+      "total_orders": 12398,
+      "total_reorders": 7492,
+      "reorder_rate": 0.6043
+    },
+    {
+      "product_id": 18918,
+      "product_name": "Organic Chopped Spinach",
+      "total_orders": 12366,
+      "total_reorders": 6529,
+      "reorder_rate": 0.528
+    },
+    {
+      "product_id": 42719,
+      "product_name": "Natural Premium Coconut Water",
+      "total_orders": 12360,
+      "total_reorders": 7614,
+      "reorder_rate": 0.616
+    },
+    {
+      "product_id": 11408,
+      "product_name": "Crushed Tomatoes",
+      "total_orders": 12357,
+      "total_reorders": 5868,
+      "reorder_rate": 0.4749
+    },
+    {
+      "product_id": 18234,
+      "product_name": "Organic Spinach Bunch",
+      "total_orders": 12318,
+      "total_reorders": 7140,
+      "reorder_rate": 0.5796
+    },
+    {
+      "product_id": 45123,
+      "product_name": "Organic 21 Grain Thin Sliced Bread",
+      "total_orders": 12282,
+      "total_reorders": 8352,
+      "reorder_rate": 0.68
+    },
+    {
+      "product_id": 44560,
+      "product_name": "Kids Organic Chocolate Chip ZBars",
+      "total_orders": 12249,
+      "total_reorders": 8317,
+      "reorder_rate": 0.679
+    },
+    {
+      "product_id": 23029,
+      "product_name": "Organic Uncured Sliced Black Forest Ham",
+      "total_orders": 12242,
+      "total_reorders": 7795,
+      "reorder_rate": 0.6367
+    },
+    {
+      "product_id": 1025,
+      "product_name": "Organic Fresh Basil",
+      "total_orders": 12193,
+      "total_reorders": 6188,
+      "reorder_rate": 0.5075
+    },
+    {
+      "product_id": 47141,
+      "product_name": "Cola",
+      "total_orders": 12150,
+      "total_reorders": 8089,
+      "reorder_rate": 0.6658
+    },
+    {
+      "product_id": 18811,
+      "product_name": "Organic Apple Juice",
+      "total_orders": 12128,
+      "total_reorders": 8021,
+      "reorder_rate": 0.6614
+    },
+    {
+      "product_id": 9092,
+      "product_name": "Organic Vegetable Broth",
+      "total_orders": 12126,
+      "total_reorders": 5785,
+      "reorder_rate": 0.4771
+    },
+    {
+      "product_id": 28745,
+      "product_name": "Oven Roasted Turkey",
+      "total_orders": 12113,
+      "total_reorders": 9047,
+      "reorder_rate": 0.7469
+    },
+    {
+      "product_id": 3896,
+      "product_name": "Organic Honey Sweet Whole Wheat Bread",
+      "total_orders": 12088,
+      "total_reorders": 9710,
+      "reorder_rate": 0.8033
+    },
+    {
+      "product_id": 25138,
+      "product_name": "Organic Plain Greek Whole Milk Yogurt",
+      "total_orders": 12070,
+      "total_reorders": 8867,
+      "reorder_rate": 0.7346
+    },
+    {
+      "product_id": 35628,
+      "product_name": "Organic Strawberry Smoothie",
+      "total_orders": 12053,
+      "total_reorders": 9345,
+      "reorder_rate": 0.7753
+    },
+    {
+      "product_id": 21292,
+      "product_name": "Rainbow Bell Peppers",
+      "total_orders": 11987,
+      "total_reorders": 8226,
+      "reorder_rate": 0.6862
+    },
+    {
+      "product_id": 26384,
+      "product_name": "Large Brown Eggs",
+      "total_orders": 11983,
+      "total_reorders": 7504,
+      "reorder_rate": 0.6262
+    },
+    {
+      "product_id": 35503,
+      "product_name": "Organic Vanilla Almond Milk",
+      "total_orders": 11979,
+      "total_reorders": 9169,
+      "reorder_rate": 0.7654
+    },
+    {
+      "product_id": 28476,
+      "product_name": "Organic Small Curd Cottage Cheese",
+      "total_orders": 11963,
+      "total_reorders": 8501,
+      "reorder_rate": 0.7106
+    },
+    {
+      "product_id": 38768,
+      "product_name": "Sweet Kale Salad Mix",
+      "total_orders": 11953,
+      "total_reorders": 8521,
+      "reorder_rate": 0.7129
+    },
+    {
+      "product_id": 21573,
+      "product_name": "Roasted Pine Nut Hummus",
+      "total_orders": 11921,
+      "total_reorders": 7273,
+      "reorder_rate": 0.6101
+    },
+    {
+      "product_id": 46820,
+      "product_name": "Vanilla Pure Almond Milk",
+      "total_orders": 11913,
+      "total_reorders": 8251,
+      "reorder_rate": 0.6926
+    },
+    {
+      "product_id": 21386,
+      "product_name": "Smartwater",
+      "total_orders": 11874,
+      "total_reorders": 8747,
+      "reorder_rate": 0.7367
+    },
+    {
+      "product_id": 47042,
+      "product_name": "Organic Red On the Vine Tomato",
+      "total_orders": 11839,
+      "total_reorders": 6114,
+      "reorder_rate": 0.5164
+    },
+    {
+      "product_id": 11140,
+      "product_name": "Organic Romaine Leaf",
+      "total_orders": 11816,
+      "total_reorders": 8588,
+      "reorder_rate": 0.7268
+    },
+    {
+      "product_id": 14197,
+      "product_name": "Tomato Paste",
+      "total_orders": 11782,
+      "total_reorders": 3900,
+      "reorder_rate": 0.331
+    },
+    {
+      "product_id": 39947,
+      "product_name": "Blackberry Cucumber Sparkling Water",
+      "total_orders": 11755,
+      "total_reorders": 7976,
+      "reorder_rate": 0.6785
+    },
+    {
+      "product_id": 32433,
+      "product_name": "Green Peas",
+      "total_orders": 11750,
+      "total_reorders": 5594,
+      "reorder_rate": 0.4761
+    },
+    {
+      "product_id": 1999,
+      "product_name": "Organic Chicken Broth",
+      "total_orders": 11747,
+      "total_reorders": 5527,
+      "reorder_rate": 0.4705
+    },
+    {
+      "product_id": 47759,
+      "product_name": "Mandarin Oranges",
+      "total_orders": 11727,
+      "total_reorders": 6778,
+      "reorder_rate": 0.578
+    },
+    {
+      "product_id": 17949,
+      "product_name": "Mild Cheddar Cheese Sticks",
+      "total_orders": 11711,
+      "total_reorders": 8920,
+      "reorder_rate": 0.7617
+    },
+    {
+      "product_id": 25824,
+      "product_name": "Pita Chips Simply Naked",
+      "total_orders": 11702,
+      "total_reorders": 5517,
+      "reorder_rate": 0.4715
+    },
+    {
+      "product_id": 37220,
+      "product_name": "Organic Strawberry Fruit Spread",
+      "total_orders": 11698,
+      "total_reorders": 6105,
+      "reorder_rate": 0.5219
+    },
+    {
+      "product_id": 21333,
+      "product_name": "Original Whipped Cream Cheese",
+      "total_orders": 11695,
+      "total_reorders": 6677,
+      "reorder_rate": 0.5709
+    },
+    {
+      "product_id": 46616,
+      "product_name": "Organic Dark Chocolate Peanut Butter Cups",
+      "total_orders": 11672,
+      "total_reorders": 7892,
+      "reorder_rate": 0.6761
+    },
+    {
+      "product_id": 24954,
+      "product_name": "Total 0% with Honey Nonfat Greek Strained Yogurt",
+      "total_orders": 11618,
+      "total_reorders": 8287,
+      "reorder_rate": 0.7133
+    },
+    {
+      "product_id": 41065,
+      "product_name": "Organic Yellow Squash",
+      "total_orders": 11610,
+      "total_reorders": 6576,
+      "reorder_rate": 0.5664
+    },
+    {
+      "product_id": 5456,
+      "product_name": "Green Tea With Ginseng and Honey",
+      "total_orders": 11595,
+      "total_reorders": 6827,
+      "reorder_rate": 0.5888
+    },
+    {
+      "product_id": 38273,
+      "product_name": "Marinara Pasta Sauce",
+      "total_orders": 11577,
+      "total_reorders": 6079,
+      "reorder_rate": 0.5251
+    },
+    {
+      "product_id": 48628,
+      "product_name": "Organic Whole Wheat Bread",
+      "total_orders": 11565,
+      "total_reorders": 8109,
+      "reorder_rate": 0.7012
+    },
+    {
+      "product_id": 43504,
+      "product_name": "Organic Chicken Strips",
+      "total_orders": 11561,
+      "total_reorders": 7695,
+      "reorder_rate": 0.6656
+    },
+    {
+      "product_id": 15613,
+      "product_name": "Salted Tub of Butter",
+      "total_orders": 11548,
+      "total_reorders": 7132,
+      "reorder_rate": 0.6176
+    },
+    {
+      "product_id": 1194,
+      "product_name": "Natural Artisan Water",
+      "total_orders": 11538,
+      "total_reorders": 8449,
+      "reorder_rate": 0.7323
+    },
+    {
+      "product_id": 15424,
+      "product_name": "Purified Water",
+      "total_orders": 11522,
+      "total_reorders": 8761,
+      "reorder_rate": 0.7604
+    },
+    {
+      "product_id": 44628,
+      "product_name": "Organic Dijon Mustard",
+      "total_orders": 11503,
+      "total_reorders": 2894,
+      "reorder_rate": 0.2516
+    },
+    {
+      "product_id": 39190,
+      "product_name": "Vanilla Unsweetened Almond Milk",
+      "total_orders": 11488,
+      "total_reorders": 6626,
+      "reorder_rate": 0.5768
+    },
+    {
+      "product_id": 27548,
+      "product_name": "Original Semisoft Cheese",
+      "total_orders": 11486,
+      "total_reorders": 7326,
+      "reorder_rate": 0.6378
+    },
+    {
+      "product_id": 27730,
+      "product_name": "Almond Breeze Original Almond Milk",
+      "total_orders": 11409,
+      "total_reorders": 8227,
+      "reorder_rate": 0.7211
+    },
+    {
+      "product_id": 35535,
+      "product_name": "Organic Red Chard Greens",
+      "total_orders": 11365,
+      "total_reorders": 6551,
+      "reorder_rate": 0.5764
+    },
+    {
+      "product_id": 24841,
+      "product_name": "Aged White Cheddar Baked Rice & Corn Puffs Gluten Free Lunch Packs",
+      "total_orders": 11355,
+      "total_reorders": 7963,
+      "reorder_rate": 0.7013
+    },
+    {
+      "product_id": 29307,
+      "product_name": "Baby Arugula",
+      "total_orders": 11352,
+      "total_reorders": 6856,
+      "reorder_rate": 0.6039
+    },
+    {
+      "product_id": 42110,
+      "product_name": "Organic Macaroni Shells & Real Aged Cheddar",
+      "total_orders": 11316,
+      "total_reorders": 6422,
+      "reorder_rate": 0.5675
+    },
+    {
+      "product_id": 14161,
+      "product_name": "Kiwi",
+      "total_orders": 11284,
+      "total_reorders": 5966,
+      "reorder_rate": 0.5287
+    },
+    {
+      "product_id": 16696,
+      "product_name": "Coke Classic",
+      "total_orders": 11265,
+      "total_reorders": 7417,
+      "reorder_rate": 0.6584
+    },
+    {
+      "product_id": 14462,
+      "product_name": "Sliced Black Olives",
+      "total_orders": 11225,
+      "total_reorders": 6505,
+      "reorder_rate": 0.5795
+    },
+    {
+      "product_id": 49175,
+      "product_name": "Organic Pinto Beans",
+      "total_orders": 11214,
+      "total_reorders": 5467,
+      "reorder_rate": 0.4875
+    },
+    {
+      "product_id": 31066,
+      "product_name": "Aluminum Foil",
+      "total_orders": 11181,
+      "total_reorders": 2446,
+      "reorder_rate": 0.2188
+    },
+    {
+      "product_id": 26800,
+      "product_name": "Organic Baby Kale Mix",
+      "total_orders": 11158,
+      "total_reorders": 6220,
+      "reorder_rate": 0.5574
+    },
+    {
+      "product_id": 9825,
+      "product_name": "Organic Multigrain Waffles",
+      "total_orders": 11125,
+      "total_reorders": 7717,
+      "reorder_rate": 0.6937
+    },
+    {
+      "product_id": 27796,
+      "product_name": "Real Mayonnaise",
+      "total_orders": 11118,
+      "total_reorders": 4523,
+      "reorder_rate": 0.4068
+    },
+    {
+      "product_id": 11068,
+      "product_name": "Medium Cheddar Cheese Block",
+      "total_orders": 11114,
+      "total_reorders": 6730,
+      "reorder_rate": 0.6055
+    },
+    {
+      "product_id": 5322,
+      "product_name": "Gluten Free Dark Chocolate Chunk Chewy with a Crunch Granola Bars",
+      "total_orders": 11062,
+      "total_reorders": 7176,
+      "reorder_rate": 0.6487
+    },
+    {
+      "product_id": 7969,
+      "product_name": "Lime",
+      "total_orders": 11048,
+      "total_reorders": 5243,
+      "reorder_rate": 0.4746
+    },
+    {
+      "product_id": 27325,
+      "product_name": "Alpine Spring Water",
+      "total_orders": 11044,
+      "total_reorders": 8443,
+      "reorder_rate": 0.7645
+    },
+    {
+      "product_id": 41588,
+      "product_name": "Firm Tofu",
+      "total_orders": 11043,
+      "total_reorders": 6827,
+      "reorder_rate": 0.6182
+    },
+    {
+      "product_id": 32177,
+      "product_name": "Blood Oranges",
+      "total_orders": 11031,
+      "total_reorders": 5255,
+      "reorder_rate": 0.4764
+    },
+    {
+      "product_id": 5769,
+      "product_name": "Organic Chicken Stock",
+      "total_orders": 11029,
+      "total_reorders": 5148,
+      "reorder_rate": 0.4668
+    },
+    {
+      "product_id": 27323,
+      "product_name": "Pure & Natural Sour Cream",
+      "total_orders": 11026,
+      "total_reorders": 4896,
+      "reorder_rate": 0.444
+    },
+    {
+      "product_id": 8309,
+      "product_name": "Nonfat Icelandic Style Strawberry Yogurt",
+      "total_orders": 11025,
+      "total_reorders": 7736,
+      "reorder_rate": 0.7017
+    },
+    {
+      "product_id": 11005,
+      "product_name": "Organic Cream Cheese Bar",
+      "total_orders": 11018,
+      "total_reorders": 5526,
+      "reorder_rate": 0.5015
+    },
+    {
+      "product_id": 13517,
+      "product_name": "Whole Wheat Bread",
+      "total_orders": 11010,
+      "total_reorders": 7661,
+      "reorder_rate": 0.6958
+    },
+    {
+      "product_id": 1244,
+      "product_name": "Organic Orange Bell Pepper",
+      "total_orders": 11005,
+      "total_reorders": 6174,
+      "reorder_rate": 0.561
+    },
+    {
+      "product_id": 27744,
+      "product_name": "Organic Whipping Cream",
+      "total_orders": 11002,
+      "total_reorders": 7243,
+      "reorder_rate": 0.6583
+    },
+    {
+      "product_id": 9020,
+      "product_name": "Boneless Skinless Chicken Thighs",
+      "total_orders": 10976,
+      "total_reorders": 6442,
+      "reorder_rate": 0.5869
+    },
+    {
+      "product_id": 22474,
+      "product_name": "Cheddar Bunnies Snack Crackers",
+      "total_orders": 10954,
+      "total_reorders": 5805,
+      "reorder_rate": 0.5299
+    },
+    {
+      "product_id": 13733,
+      "product_name": "Red Potatoes",
+      "total_orders": 10940,
+      "total_reorders": 4870,
+      "reorder_rate": 0.4452
+    },
+    {
+      "product_id": 2228,
+      "product_name": "Organic Frozen Mango Chunks",
+      "total_orders": 10938,
+      "total_reorders": 6006,
+      "reorder_rate": 0.5491
+    },
+    {
+      "product_id": 16521,
+      "product_name": "Walnut Halves & Pieces",
+      "total_orders": 10920,
+      "total_reorders": 5449,
+      "reorder_rate": 0.499
+    },
+    {
+      "product_id": 2452,
+      "product_name": "Naturals Chicken Nuggets",
+      "total_orders": 10915,
+      "total_reorders": 6936,
+      "reorder_rate": 0.6355
+    },
+    {
+      "product_id": 26497,
+      "product_name": "Romaine Lettuce",
+      "total_orders": 10896,
+      "total_reorders": 5272,
+      "reorder_rate": 0.4838
+    },
+    {
+      "product_id": 3298,
+      "product_name": "Mozzarella String Cheese",
+      "total_orders": 10890,
+      "total_reorders": 7746,
+      "reorder_rate": 0.7113
+    },
+    {
+      "product_id": 49191,
+      "product_name": "Cran Raspberry Sparkling Water",
+      "total_orders": 10868,
+      "total_reorders": 6887,
+      "reorder_rate": 0.6337
+    },
+    {
+      "product_id": 20345,
+      "product_name": "Thin Crust Pepperoni Pizza",
+      "total_orders": 10859,
+      "total_reorders": 6951,
+      "reorder_rate": 0.6401
+    },
+    {
+      "product_id": 4086,
+      "product_name": "Mint",
+      "total_orders": 10857,
+      "total_reorders": 4703,
+      "reorder_rate": 0.4332
+    },
+    {
+      "product_id": 21872,
+      "product_name": "Organic Italian Salad",
+      "total_orders": 10838,
+      "total_reorders": 6516,
+      "reorder_rate": 0.6012
+    },
+    {
+      "product_id": 19173,
+      "product_name": "Orange Calcium & Vitamin D Pulp Free",
+      "total_orders": 10834,
+      "total_reorders": 6852,
+      "reorder_rate": 0.6325
+    },
+    {
+      "product_id": 28601,
+      "product_name": "Collard Greens",
+      "total_orders": 10811,
+      "total_reorders": 6250,
+      "reorder_rate": 0.5781
+    },
+    {
+      "product_id": 17316,
+      "product_name": "Vitamin D Organic Whole Milk",
+      "total_orders": 10797,
+      "total_reorders": 8111,
+      "reorder_rate": 0.7512
+    },
+    {
+      "product_id": 18479,
+      "product_name": "Organic Low Sodium Vegetable Broth",
+      "total_orders": 10787,
+      "total_reorders": 4957,
+      "reorder_rate": 0.4595
+    },
+    {
+      "product_id": 2314,
+      "product_name": "Whole Milk Ricotta Cheese",
+      "total_orders": 10781,
+      "total_reorders": 4174,
+      "reorder_rate": 0.3872
+    },
+    {
+      "product_id": 15261,
+      "product_name": "Organic Rosemary",
+      "total_orders": 10781,
+      "total_reorders": 4019,
+      "reorder_rate": 0.3728
+    },
+    {
+      "product_id": 20734,
+      "product_name": "Organic Medjool Dates",
+      "total_orders": 10780,
+      "total_reorders": 6108,
+      "reorder_rate": 0.5666
+    },
+    {
+      "product_id": 41658,
+      "product_name": "Authentic French Brioche Hamburger Buns",
+      "total_orders": 10759,
+      "total_reorders": 6986,
+      "reorder_rate": 0.6493
+    },
+    {
+      "product_id": 47630,
+      "product_name": "Medium Navel Orange",
+      "total_orders": 10755,
+      "total_reorders": 6229,
+      "reorder_rate": 0.5792
+    },
+    {
+      "product_id": 12980,
+      "product_name": "Large Greenhouse Tomato",
+      "total_orders": 10750,
+      "total_reorders": 6184,
+      "reorder_rate": 0.5753
+    },
+    {
+      "product_id": 22849,
+      "product_name": "Bunny-Luv Fresh Organic Carrots",
+      "total_orders": 10728,
+      "total_reorders": 4977,
+      "reorder_rate": 0.4639
+    },
+    {
+      "product_id": 20738,
+      "product_name": "Plain Bagels",
+      "total_orders": 10717,
+      "total_reorders": 7219,
+      "reorder_rate": 0.6736
+    },
+    {
+      "product_id": 36724,
+      "product_name": "Organic Sea Salt Roasted Seaweed Snacks",
+      "total_orders": 10690,
+      "total_reorders": 6816,
+      "reorder_rate": 0.6376
+    },
+    {
+      "product_id": 5373,
+      "product_name": "Organic No Salt Added Diced Tomatoes",
+      "total_orders": 10661,
+      "total_reorders": 5251,
+      "reorder_rate": 0.4925
+    },
+    {
+      "product_id": 44799,
+      "product_name": "Fresh CA Grown Eggs",
+      "total_orders": 10657,
+      "total_reorders": 8454,
+      "reorder_rate": 0.7933
+    },
+    {
+      "product_id": 21927,
+      "product_name": "Organic Boneless Skinless Chicken Breast",
+      "total_orders": 10641,
+      "total_reorders": 7018,
+      "reorder_rate": 0.6595
+    },
+    {
+      "product_id": 22959,
+      "product_name": "Reduced Fat Milk 100% Lactose Free",
+      "total_orders": 10618,
+      "total_reorders": 7893,
+      "reorder_rate": 0.7434
+    },
+    {
+      "product_id": 5161,
+      "product_name": "Dried Mango",
+      "total_orders": 10596,
+      "total_reorders": 7903,
+      "reorder_rate": 0.7458
+    },
+    {
+      "product_id": 37524,
+      "product_name": "Fresh Mozzarella Ball",
+      "total_orders": 10551,
+      "total_reorders": 5456,
+      "reorder_rate": 0.5171
+    },
+    {
+      "product_id": 20574,
+      "product_name": "Roasted Turkey",
+      "total_orders": 10521,
+      "total_reorders": 7870,
+      "reorder_rate": 0.748
+    },
+    {
+      "product_id": 35914,
+      "product_name": "Dha Omega 3 Reduced Fat 2% Milk",
+      "total_orders": 10509,
+      "total_reorders": 8296,
+      "reorder_rate": 0.7894
+    },
+    {
+      "product_id": 12845,
+      "product_name": "Chopped Walnuts",
+      "total_orders": 10471,
+      "total_reorders": 3802,
+      "reorder_rate": 0.3631
+    },
+    {
+      "product_id": 17758,
+      "product_name": "Strawberry Rhubarb Yoghurt",
+      "total_orders": 10468,
+      "total_reorders": 6156,
+      "reorder_rate": 0.5881
+    },
+    {
+      "product_id": 26348,
+      "product_name": "Mixed Fruit Fruit Snacks",
+      "total_orders": 10444,
+      "total_reorders": 7219,
+      "reorder_rate": 0.6912
+    },
+    {
+      "product_id": 25513,
+      "product_name": "Boomchickapop Sea Salt Popcorn",
+      "total_orders": 10435,
+      "total_reorders": 6581,
+      "reorder_rate": 0.6307
+    },
+    {
+      "product_id": 4656,
+      "product_name": "Raspberry Preserves",
+      "total_orders": 10427,
+      "total_reorders": 5115,
+      "reorder_rate": 0.4906
+    },
+    {
+      "product_id": 6948,
+      "product_name": "Organic Original Almond Milk",
+      "total_orders": 10380,
+      "total_reorders": 8407,
+      "reorder_rate": 0.8099
+    },
+    {
+      "product_id": 11712,
+      "product_name": "Cage Free Large White Eggs",
+      "total_orders": 10375,
+      "total_reorders": 7768,
+      "reorder_rate": 0.7487
+    },
+    {
+      "product_id": 34584,
+      "product_name": "Organic Sliced Peaches",
+      "total_orders": 10300,
+      "total_reorders": 5574,
+      "reorder_rate": 0.5412
+    },
+    {
+      "product_id": 40198,
+      "product_name": "Blueberry Yoghurt",
+      "total_orders": 10294,
+      "total_reorders": 6371,
+      "reorder_rate": 0.6189
+    }
+  ]
+}
