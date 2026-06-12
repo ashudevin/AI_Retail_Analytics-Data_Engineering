@@ -46,18 +46,24 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ```bash
 npm run build
+npm run start   # optional local preview
 ```
 
-Static files are output to `frontend/out/` (compatible with Vercel static hosting).
+Pages are pre-rendered at build time and served as static HTML on Vercel (CDN).
 
 ## Deploy to Vercel
 
-1. Push the repo to GitHub.
-2. Import the project in [Vercel](https://vercel.com/new).
-3. Set **Root Directory** to `frontend`.
-4. Framework Preset: **Next.js** (auto-detected).
-5. Build Command: `npm run build`
-6. Output Directory: `out` (static export)
+| Setting | Value |
+|---------|-------|
+| **Root Directory** | `frontend` |
+| **Framework Preset** | Next.js |
+| **Build Command** | `npm run build` (default) |
+| **Output Directory** | *(leave empty — use default)* |
+| **Install Command** | `npm install` (default) |
+
+> **Important:** Do **not** set Output Directory to `out`. That is only for
+> `output: "export"` static exports. This project uses standard Next.js SSG,
+> which outputs to `.next/` and requires `routes-manifest.json` for Vercel.
 
 No environment variables required for the dashboard itself.
 
