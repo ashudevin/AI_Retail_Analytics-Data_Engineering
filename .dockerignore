@@ -1,0 +1,45 @@
+# Root Docker build context exclusions
+.git
+.gitignore
+.venv
+.spark_env
+__pycache__
+*.py[cod]
+*.egg-info
+.pytest_cache
+.mypy_cache
+.ruff_cache
+
+# Large / generated data (mounted as volumes)
+data/raw/*.csv
+data/processed/
+data/ai_insights/
+data/warehouse/
+
+# Frontend build artifacts
+frontend/node_modules
+frontend/.next
+frontend/out
+
+# Airflow runtime
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.cfg
+airflow/webserver_config.py
+
+# Secrets
+.env
+.env.local
+
+# IDE & OS
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints
+notebooks/
+
+# Docker meta
+docker-compose.override.yml

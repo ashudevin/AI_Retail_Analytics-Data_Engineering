@@ -10,7 +10,9 @@ import type {
   TopProductsData,
 } from "@/types";
 
-const DATA_DIR = path.join(process.cwd(), "public", "data");
+const DATA_DIR = process.env.DASHBOARD_DATA_DIR
+  ? process.env.DASHBOARD_DATA_DIR
+  : path.join(process.cwd(), "public", "data");
 
 function readJson<T>(filename: string): T {
   const filePath = path.join(DATA_DIR, filename);

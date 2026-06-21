@@ -1,0 +1,9 @@
+# Airflow orchestration (install in Airflow environment / Docker image)
+apache-airflow>=2.8.0,<3.0.0
+
+# Project pipeline dependencies (also install from repo root requirements.txt)
+pyspark>=3.5.0,<4.0.0
+pandas>=2.0.0,<3.0.0
+pyarrow>=14.0.0,<20.0.0
+google-generativeai>=0.8.0,<1.0.0
+python-dotenv>=1.0.0,<2.0.0

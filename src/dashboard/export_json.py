@@ -222,12 +222,30 @@ def extract_recommendations(text: str) -> List[str]:
     return [r.strip() for r in recs if r.strip()]
 
 
-def export_ai_insights(last_updated: str, logger: logging.Logger) -> Dict[str, Any]:
+def export_ai_insights(
+    last_updated: str,
+    logger: logging.Logger,
+    *,
+    required: bool = True,
+) -> Dict[str, Any]:
     if not INSIGHTS_JSON_PATH.exists():
-        raise ExportError(
-            f"AI insights not found: {INSIGHTS_JSON_PATH}. "
-            "Run: python -m src.ai.run_ai_insights"
+        if required:
+            raise ExportError(
+                f"AI insights not found: {INSIGHTS_JSON_PATH}. "
+                "Run: python -m src.ai.run_ai_insights"
+            )
+        logger.warning(
+            "AI insights not found — skipping ai_insights.json (generated in next task)"
         )
+        return {
+            "last_updated": last_updated,
+            "model": "pending",
+            "executive_summary": "AI insights will be generated in the next pipeline task.",
+            "sections": {},
+            "recommendations": [],
+            "full_text": "",
+            "kpi_overview": {},
+        }
 
     payload = json.loads(INSIGHTS_JSON_PATH.read_text(encoding="utf-8"))
     full_text = payload.get("executive_insights", "")
@@ -259,6 +277,8 @@ def write_json(path: Path, data: Dict[str, Any], logger: logging.Logger) -> None
 def run_export(
     gold_dir: Path | None = None,
     output_dir: Path | None = None,
+    *,
+    require_ai_insights: bool = True,
 ) -> Dict[str, Path]:
     logger = setup_logging()
     gold_path = gold_dir or GOLD_DATA_DIR
@@ -282,7 +302,9 @@ def run_export(
             "department_metrics.json": export_department_metrics(dept_df, last_updated),
             "basket_metrics.json": export_basket_metrics(basket_df, last_updated),
             "customer_metrics.json": export_customer_metrics(customer_df, last_updated),
-            "ai_insights.json": export_ai_insights(last_updated, logger),
+            "ai_insights.json": export_ai_insights(
+                last_updated, logger, required=require_ai_insights
+            ),
         }
 
         written: Dict[str, Path] = {}
