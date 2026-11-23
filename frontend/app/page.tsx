@@ -45,8 +45,8 @@ export default function HomePage() {
             <CardContent className="text-sm leading-relaxed text-muted-foreground">
               End-to-end data engineering pipeline: PySpark ingestion (Bronze),
               data quality &amp; transformation (Silver), business KPI aggregation
-              (Gold), Gemini AI insights, and this static analytics dashboard —
-              deployed on Vercel with zero backend cold starts.
+              (Gold), and this analytics dashboard with an interactive AI chatbot
+              grounded in your evaluated retail metrics.
             </CardContent>
           </Card>
 

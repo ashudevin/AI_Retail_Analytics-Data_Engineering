@@ -11,8 +11,8 @@ PySpark (Gold Layer) → export_json.py → public/data/*.json → Next.js (stat
 ## Prerequisites
 
 1. Gold layer Parquet files in `data/processed/gold/`
-2. AI insights in `data/ai_insights/` (optional but recommended)
-3. Node.js 18+
+2. Node.js 18+
+3. `GEMINI_API_KEY` in the environment (required for the AI Insights chatbot)
 
 ## Setup
 
@@ -80,7 +80,7 @@ Re-run the export script locally (or in CI), commit the updated `public/data/*.j
 | `/departments/` | Department rankings and distribution |
 | `/customers/` | Segmentation and order frequency |
 | `/basket/` | Basket size analysis |
-| `/insights/` | Gemini AI executive summary |
+| `/insights/` | Interactive AI chatbot grounded in Gold-layer metrics |
 
 ## Tech Stack
 

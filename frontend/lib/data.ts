@@ -1,7 +1,6 @@
 import fs from "fs";
 import path from "path";
 import type {
-  AIInsightsData,
   BasketMetricsData,
   CustomerMetricsData,
   DashboardOverview,
@@ -45,30 +44,19 @@ export function getCustomerMetrics(): CustomerMetricsData {
   return readJson<CustomerMetricsData>("customer_metrics.json");
 }
 
-export function getAIInsights(): AIInsightsData {
-  return readJson<AIInsightsData>("ai_insights.json");
-}
-
 /** Aggregate home-page KPIs from exported JSON files */
 export function getDashboardOverview(): DashboardOverview {
   const products = getTopProducts();
   const departments = getDepartmentMetrics();
   const basket = getBasketMetrics();
   const customers = getCustomerMetrics();
-  const insights = getAIInsights();
 
-  const kpi = insights.kpi_overview;
   return {
-    total_customers:
-      kpi.total_customers ?? customers.summary.total_customers,
-    total_products:
-      kpi.total_unique_products ?? products.total_products,
-    total_departments:
-      kpi.total_departments ?? departments.total_departments,
-    total_transactions:
-      kpi.total_orders ?? basket.summary.total_orders,
-    total_line_items:
-      kpi.total_line_items ?? basket.summary.total_line_items,
-    last_updated: insights.last_updated || products.last_updated,
+    total_customers: customers.summary.total_customers,
+    total_products: products.total_products,
+    total_departments: departments.total_departments,
+    total_transactions: basket.summary.total_orders,
+    total_line_items: basket.summary.total_line_items,
+    last_updated: products.last_updated,
   };
 }

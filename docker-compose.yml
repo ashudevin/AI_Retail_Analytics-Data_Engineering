@@ -249,9 +249,16 @@ services:
     container_name: retail-frontend
     ports:
       - "${FRONTEND_PORT:-3000}:3000"
+    env_file:
+      - path: .env
+        required: false
     environment:
       DASHBOARD_DATA_DIR: /app/public/data
       NODE_ENV: production
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      GEMINI_MODEL: ${GEMINI_MODEL:-gemini-2.5-flash}
+      GEMINI_TEMPERATURE: ${GEMINI_TEMPERATURE:-0.3}
+      GEMINI_MAX_OUTPUT_TOKENS: ${GEMINI_MAX_OUTPUT_TOKENS:-2048}
     volumes:
       - retail-frontend-data:/app/public/data:ro
     depends_on:

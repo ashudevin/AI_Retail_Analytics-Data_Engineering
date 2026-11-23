@@ -19,7 +19,7 @@ const navItems = [
   { href: "/departments/", label: "Departments", icon: Building2 },
   { href: "/customers/", label: "Customers", icon: Users },
   { href: "/basket/", label: "Basket Analytics", icon: ShoppingCart },
-  { href: "/insights/", label: "AI Insights", icon: Brain },
+  { href: "/insights/", label: "BizMind", icon: Brain },
 ];
 
 export function Sidebar() {
@@ -30,7 +30,7 @@ export function Sidebar() {
       <div className="flex h-16 items-center gap-2 border-b border-border px-6">
         <BarChart3 className="h-6 w-6 text-primary" />
         <div>
-          <p className="text-sm font-bold leading-tight">Retail Analytics</p>
+          <p className="text-sm font-bold leading-tight">ShopWise</p>
           <p className="text-xs text-muted-foreground">AI-Powered Dashboard</p>
         </div>
       </div>

@@ -86,22 +86,6 @@ export interface CustomerMetricsData {
   top_customers: CustomerRecord[];
 }
 
-export interface AIInsightsData {
-  last_updated: string;
-  model: string;
-  executive_summary: string;
-  sections: Record<string, string>;
-  recommendations: string[];
-  full_text: string;
-  kpi_overview: {
-    total_unique_products?: number;
-    total_departments?: number;
-    total_orders?: number;
-    total_customers?: number;
-    total_line_items?: number;
-  };
-}
-
 export interface DashboardOverview {
   total_customers: number;
   total_products: number;

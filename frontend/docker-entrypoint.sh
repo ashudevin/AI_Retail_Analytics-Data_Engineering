@@ -13,4 +13,8 @@ if [ ! -f "${DASHBOARD_DATA_DIR:-/app/public/data}/top_products.json" ]; then
   echo "         Run the Airflow pipeline or: docker compose run pipeline-runner"
 fi
 
+if [ -z "${GEMINI_API_KEY:-}" ]; then
+  echo "WARNING: GEMINI_API_KEY is not set — AI Insights chatbot will be unavailable."
+fi
+
 exec "$@"

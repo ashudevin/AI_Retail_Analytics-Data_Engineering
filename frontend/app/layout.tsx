@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "AI Retail Analytics Dashboard",
   description:
-    "AI-powered retail analytics dashboard built on PySpark Gold Layer and Gemini insights",
+    "AI-powered retail analytics dashboard built on PySpark Gold Layer with an interactive insights chatbot",
 };
 
 export default function RootLayout({
